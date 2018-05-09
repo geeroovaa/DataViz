@@ -1,0 +1,1095 @@
+,neigh,gentri,conteo,percentage
+0,Airport,LI - Not Losing Low Income Households,7,0.5
+1,Airport,MHI - At Risk of Exclusion,2,0.14285714285714285
+2,Airport,MHI - Not Losing Low Income Households,5,0.35714285714285715
+3,Allerton-Pelham Gardens,LI - At Risk of Gentrification and/or Displacement,1,0.043478260869565216
+4,Allerton-Pelham Gardens,LI - Not Losing Low Income Households,3,0.13043478260869565
+5,Allerton-Pelham Gardens,MHI - Advanced Exclusion,6,0.2608695652173913
+6,Allerton-Pelham Gardens,MHI - Advanced Gentrification,2,0.08695652173913043
+7,Allerton-Pelham Gardens,MHI - Not Losing Low Income Households,9,0.391304347826087
+8,Allerton-Pelham Gardens,MHI - Ongoing Exclusion,2,0.08695652173913043
+9,Annadale-Huguenot-Prince's Bay-Eltingville,LI - Not Losing Low Income Households,4,0.21052631578947367
+10,Annadale-Huguenot-Prince's Bay-Eltingville,MHI - Advanced Exclusion,5,0.2631578947368421
+11,Annadale-Huguenot-Prince's Bay-Eltingville,MHI - Not Losing Low Income Households,10,0.5263157894736842
+12,Arden Heights,LI - Not Losing Low Income Households,1,0.1111111111111111
+13,Arden Heights,MHI - Advanced Exclusion,1,0.1111111111111111
+14,Arden Heights,MHI - Not Losing Low Income Households,7,0.7777777777777778
+15,Astoria,LI - At Risk of Gentrification and/or Displacement,3,0.07142857142857142
+16,Astoria,LI - Not Losing Low Income Households,3,0.07142857142857142
+17,Astoria,LI - Ongoing Gentrification and/or Displacement,16,0.38095238095238093
+18,Astoria,MHI - Advanced Exclusion,2,0.047619047619047616
+19,Astoria,MHI - Advanced Gentrification,13,0.30952380952380953
+20,Astoria,MHI - At Risk of Exclusion,1,0.023809523809523808
+21,Astoria,MHI - Not Losing Low Income Households,4,0.09523809523809523
+22,Auburndale,LI - At Risk of Gentrification and/or Displacement,1,0.041666666666666664
+23,Auburndale,LI - Not Losing Low Income Households,4,0.16666666666666666
+24,Auburndale,MHI - Advanced Exclusion,7,0.2916666666666667
+25,Auburndale,MHI - At Risk of Exclusion,2,0.08333333333333333
+26,Auburndale,MHI - Not Losing Low Income Households,7,0.2916666666666667
+27,Auburndale,MHI - Ongoing Exclusion,3,0.125
+28,Baisley Park,LI - Not Losing Low Income Households,7,0.2692307692307692
+29,Baisley Park,LI - Ongoing Gentrification and/or Displacement,2,0.07692307692307693
+30,Baisley Park,MHI - Advanced Exclusion,3,0.11538461538461539
+31,Baisley Park,MHI - Advanced Gentrification,5,0.19230769230769232
+32,Baisley Park,MHI - At Risk of Exclusion,1,0.038461538461538464
+33,Baisley Park,MHI - Not Losing Low Income Households,6,0.23076923076923078
+34,Baisley Park,MHI - Ongoing Exclusion,2,0.07692307692307693
+35,Bath Beach,LI - At Risk of Gentrification and/or Displacement,2,0.09090909090909091
+36,Bath Beach,LI - Not Losing Low Income Households,4,0.18181818181818182
+37,Bath Beach,LI - Ongoing Gentrification and/or Displacement,5,0.22727272727272727
+38,Bath Beach,MHI - Advanced Exclusion,2,0.09090909090909091
+39,Bath Beach,MHI - Advanced Gentrification,3,0.13636363636363635
+40,Bath Beach,MHI - At Risk of Exclusion,3,0.13636363636363635
+41,Bath Beach,MHI - Not Losing Low Income Households,2,0.09090909090909091
+42,Bath Beach,MHI - Ongoing Exclusion,1,0.045454545454545456
+43,Battery Park City-Lower Manhattan,LI - Ongoing Gentrification and/or Displacement,1,0.0625
+44,Battery Park City-Lower Manhattan,MHI - Advanced Exclusion,10,0.625
+45,Battery Park City-Lower Manhattan,MHI - Advanced Gentrification,1,0.0625
+46,Battery Park City-Lower Manhattan,MHI - At Risk of Exclusion,2,0.125
+47,Battery Park City-Lower Manhattan,MHI - Not Losing Low Income Households,2,0.125
+48,Bay Ridge,LI - At Risk of Gentrification and/or Displacement,2,0.05128205128205128
+49,Bay Ridge,LI - Not Losing Low Income Households,6,0.15384615384615385
+50,Bay Ridge,LI - Ongoing Gentrification and/or Displacement,6,0.15384615384615385
+51,Bay Ridge,MHI - Advanced Exclusion,8,0.20512820512820512
+52,Bay Ridge,MHI - Advanced Gentrification,3,0.07692307692307693
+53,Bay Ridge,MHI - At Risk of Exclusion,7,0.1794871794871795
+54,Bay Ridge,MHI - Not Losing Low Income Households,6,0.15384615384615385
+55,Bay Ridge,MHI - Ongoing Exclusion,1,0.02564102564102564
+56,Bayside-Bayside Hills,LI - Not Losing Low Income Households,4,0.12121212121212122
+57,Bayside-Bayside Hills,MHI - Advanced Exclusion,14,0.42424242424242425
+58,Bayside-Bayside Hills,MHI - At Risk of Exclusion,2,0.06060606060606061
+59,Bayside-Bayside Hills,MHI - Not Losing Low Income Households,10,0.30303030303030304
+60,Bayside-Bayside Hills,MHI - Ongoing Exclusion,3,0.09090909090909091
+61,Bedford,LI - At Risk of Gentrification and/or Displacement,8,0.21052631578947367
+62,Bedford,LI - Not Losing Low Income Households,6,0.15789473684210525
+63,Bedford,LI - Ongoing Gentrification and/or Displacement,13,0.34210526315789475
+64,Bedford,MHI - Advanced Exclusion,2,0.05263157894736842
+65,Bedford,MHI - Advanced Gentrification,9,0.23684210526315788
+66,Bedford Park-Fordham North,LI - At Risk of Gentrification and/or Displacement,10,0.45454545454545453
+67,Bedford Park-Fordham North,LI - Not Losing Low Income Households,1,0.045454545454545456
+68,Bedford Park-Fordham North,LI - Ongoing Gentrification and/or Displacement,5,0.22727272727272727
+69,Bedford Park-Fordham North,MHI - Advanced Exclusion,1,0.045454545454545456
+70,Bedford Park-Fordham North,MHI - Advanced Gentrification,2,0.09090909090909091
+71,Bedford Park-Fordham North,MHI - At Risk of Exclusion,2,0.09090909090909091
+72,Bedford Park-Fordham North,MHI - Ongoing Exclusion,1,0.045454545454545456
+73,Bellerose,LI - At Risk of Gentrification and/or Displacement,2,0.125
+74,Bellerose,LI - Not Losing Low Income Households,1,0.0625
+75,Bellerose,MHI - Advanced Exclusion,4,0.25
+76,Bellerose,MHI - At Risk of Exclusion,1,0.0625
+77,Bellerose,MHI - Not Losing Low Income Households,7,0.4375
+78,Bellerose,MHI - Ongoing Exclusion,1,0.0625
+79,Belmont,LI - At Risk of Gentrification and/or Displacement,7,0.5
+80,Belmont,LI - Not Losing Low Income Households,2,0.14285714285714285
+81,Belmont,LI - Ongoing Gentrification and/or Displacement,4,0.2857142857142857
+82,Belmont,MHI - Not Losing Low Income Households,1,0.07142857142857142
+83,Bensonhurst East,LI - At Risk of Gentrification and/or Displacement,11,0.2894736842105263
+84,Bensonhurst East,LI - Not Losing Low Income Households,10,0.2631578947368421
+85,Bensonhurst East,LI - Ongoing Gentrification and/or Displacement,13,0.34210526315789475
+86,Bensonhurst East,MHI - Advanced Exclusion,1,0.02631578947368421
+87,Bensonhurst East,MHI - Advanced Gentrification,1,0.02631578947368421
+88,Bensonhurst East,MHI - Not Losing Low Income Households,1,0.02631578947368421
+89,Bensonhurst East,MHI - Ongoing Exclusion,1,0.02631578947368421
+90,Bensonhurst West,LI - At Risk of Gentrification and/or Displacement,12,0.24
+91,Bensonhurst West,LI - Not Losing Low Income Households,13,0.26
+92,Bensonhurst West,LI - Ongoing Gentrification and/or Displacement,12,0.24
+93,Bensonhurst West,MHI - Advanced Exclusion,3,0.06
+94,Bensonhurst West,MHI - Advanced Gentrification,5,0.1
+95,Bensonhurst West,MHI - At Risk of Exclusion,4,0.08
+96,Bensonhurst West,MHI - Ongoing Exclusion,1,0.02
+97,Borough Park,LI - At Risk of Gentrification and/or Displacement,19,0.37254901960784315
+98,Borough Park,LI - Not Losing Low Income Households,13,0.2549019607843137
+99,Borough Park,LI - Ongoing Gentrification and/or Displacement,15,0.29411764705882354
+100,Borough Park,MHI - Advanced Exclusion,2,0.0392156862745098
+101,Borough Park,MHI - Advanced Gentrification,1,0.0196078431372549
+102,Borough Park,MHI - Not Losing Low Income Households,1,0.0196078431372549
+103,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,LI - At Risk of Gentrification and/or Displacement,1,0.07692307692307693
+104,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,LI - Ongoing Gentrification and/or Displacement,3,0.23076923076923078
+105,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,MHI - Advanced Exclusion,2,0.15384615384615385
+106,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,MHI - At Risk of Exclusion,1,0.07692307692307693
+107,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,MHI - Not Losing Low Income Households,5,0.38461538461538464
+108,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,MHI - Ongoing Exclusion,1,0.07692307692307693
+109,Briarwood-Jamaica Hills,LI - At Risk of Gentrification and/or Displacement,6,0.2727272727272727
+110,Briarwood-Jamaica Hills,LI - Not Losing Low Income Households,5,0.22727272727272727
+111,Briarwood-Jamaica Hills,MHI - Advanced Exclusion,2,0.09090909090909091
+112,Briarwood-Jamaica Hills,MHI - Advanced Gentrification,1,0.045454545454545456
+113,Briarwood-Jamaica Hills,MHI - Not Losing Low Income Households,6,0.2727272727272727
+114,Briarwood-Jamaica Hills,MHI - Ongoing Exclusion,2,0.09090909090909091
+115,Brighton Beach,LI - At Risk of Gentrification and/or Displacement,2,0.10526315789473684
+116,Brighton Beach,LI - Not Losing Low Income Households,8,0.42105263157894735
+117,Brighton Beach,LI - Ongoing Gentrification and/or Displacement,4,0.21052631578947367
+118,Brighton Beach,MHI - Advanced Exclusion,2,0.10526315789473684
+119,Brighton Beach,MHI - Not Losing Low Income Households,2,0.10526315789473684
+120,Brighton Beach,MHI - Ongoing Exclusion,1,0.05263157894736842
+121,Bronxdale,LI - At Risk of Gentrification and/or Displacement,3,0.1875
+122,Bronxdale,LI - Not Losing Low Income Households,3,0.1875
+123,Bronxdale,LI - Ongoing Gentrification and/or Displacement,2,0.125
+124,Bronxdale,MHI - Advanced Exclusion,2,0.125
+125,Bronxdale,MHI - Advanced Gentrification,2,0.125
+126,Bronxdale,MHI - Not Losing Low Income Households,3,0.1875
+127,Bronxdale,MHI - Ongoing Exclusion,1,0.0625
+128,Brooklyn Heights-Cobble Hill,MHI - Advanced Exclusion,8,0.5714285714285714
+129,Brooklyn Heights-Cobble Hill,MHI - Advanced Gentrification,1,0.07142857142857142
+130,Brooklyn Heights-Cobble Hill,MHI - At Risk of Exclusion,4,0.2857142857142857
+131,Brooklyn Heights-Cobble Hill,MHI - Ongoing Exclusion,1,0.07142857142857142
+132,Brownsville,LI - At Risk of Gentrification and/or Displacement,10,0.37037037037037035
+133,Brownsville,LI - Not Losing Low Income Households,12,0.4444444444444444
+134,Brownsville,LI - Ongoing Gentrification and/or Displacement,5,0.18518518518518517
+135,Bushwick North,LI - At Risk of Gentrification and/or Displacement,5,0.16666666666666666
+136,Bushwick North,LI - Not Losing Low Income Households,1,0.03333333333333333
+137,Bushwick North,LI - Ongoing Gentrification and/or Displacement,20,0.6666666666666666
+138,Bushwick North,MHI - Advanced Gentrification,4,0.13333333333333333
+139,Bushwick South,LI - At Risk of Gentrification and/or Displacement,7,0.15217391304347827
+140,Bushwick South,LI - Not Losing Low Income Households,5,0.10869565217391304
+141,Bushwick South,LI - Ongoing Gentrification and/or Displacement,26,0.5652173913043478
+142,Bushwick South,MHI - Advanced Gentrification,7,0.15217391304347827
+143,Bushwick South,MHI - Not Losing Low Income Households,1,0.021739130434782608
+144,Cambria Heights,LI - Not Losing Low Income Households,1,0.037037037037037035
+145,Cambria Heights,MHI - Advanced Exclusion,4,0.14814814814814814
+146,Cambria Heights,MHI - At Risk of Exclusion,3,0.1111111111111111
+147,Cambria Heights,MHI - Not Losing Low Income Households,16,0.5925925925925926
+148,Cambria Heights,MHI - Ongoing Exclusion,3,0.1111111111111111
+149,Canarsie,LI - Not Losing Low Income Households,8,0.17391304347826086
+150,Canarsie,LI - Ongoing Gentrification and/or Displacement,1,0.021739130434782608
+151,Canarsie,MHI - Advanced Exclusion,3,0.06521739130434782
+152,Canarsie,MHI - Advanced Gentrification,6,0.13043478260869565
+153,Canarsie,MHI - At Risk of Exclusion,2,0.043478260869565216
+154,Canarsie,MHI - Not Losing Low Income Households,22,0.4782608695652174
+155,Canarsie,MHI - Ongoing Exclusion,4,0.08695652173913043
+156,Carroll Gardens-Columbia Street-Red Hook,LI - Not Losing Low Income Households,2,0.1
+157,Carroll Gardens-Columbia Street-Red Hook,MHI - Advanced Exclusion,10,0.5
+158,Carroll Gardens-Columbia Street-Red Hook,MHI - Advanced Gentrification,2,0.1
+159,Carroll Gardens-Columbia Street-Red Hook,MHI - At Risk of Exclusion,1,0.05
+160,Carroll Gardens-Columbia Street-Red Hook,MHI - Not Losing Low Income Households,1,0.05
+161,Carroll Gardens-Columbia Street-Red Hook,MHI - Ongoing Exclusion,4,0.2
+162,Central Harlem North-Polo Grounds,LI - At Risk of Gentrification and/or Displacement,6,0.2222222222222222
+163,Central Harlem North-Polo Grounds,LI - Not Losing Low Income Households,3,0.1111111111111111
+164,Central Harlem North-Polo Grounds,LI - Ongoing Gentrification and/or Displacement,16,0.5925925925925926
+165,Central Harlem North-Polo Grounds,MHI - Not Losing Low Income Households,2,0.07407407407407407
+166,Central Harlem South,LI - At Risk of Gentrification and/or Displacement,3,0.13636363636363635
+167,Central Harlem South,LI - Not Losing Low Income Households,3,0.13636363636363635
+168,Central Harlem South,LI - Ongoing Gentrification and/or Displacement,15,0.6818181818181818
+169,Central Harlem South,MHI - Not Losing Low Income Households,1,0.045454545454545456
+170,Charleston-Richmond Valley-Tottenville,LI - Not Losing Low Income Households,3,0.375
+171,Charleston-Richmond Valley-Tottenville,MHI - Advanced Exclusion,3,0.375
+172,Charleston-Richmond Valley-Tottenville,MHI - Not Losing Low Income Households,2,0.25
+173,Chinatown,LI - At Risk of Gentrification and/or Displacement,2,0.1111111111111111
+174,Chinatown,LI - Not Losing Low Income Households,1,0.05555555555555555
+175,Chinatown,LI - Ongoing Gentrification and/or Displacement,13,0.7222222222222222
+176,Chinatown,MHI - Advanced Exclusion,2,0.1111111111111111
+177,Claremont-Bathgate,LI - At Risk of Gentrification and/or Displacement,11,0.4583333333333333
+178,Claremont-Bathgate,LI - Not Losing Low Income Households,4,0.16666666666666666
+179,Claremont-Bathgate,LI - Ongoing Gentrification and/or Displacement,7,0.2916666666666667
+180,Claremont-Bathgate,MHI - Not Losing Low Income Households,2,0.08333333333333333
+181,Clinton,LI - At Risk of Gentrification and/or Displacement,1,0.058823529411764705
+182,Clinton,LI - Ongoing Gentrification and/or Displacement,5,0.29411764705882354
+183,Clinton,MHI - Advanced Exclusion,3,0.17647058823529413
+184,Clinton,MHI - Advanced Gentrification,5,0.29411764705882354
+185,Clinton,MHI - At Risk of Exclusion,2,0.11764705882352941
+186,Clinton,MHI - Not Losing Low Income Households,1,0.058823529411764705
+187,Clinton Hill,LI - At Risk of Gentrification and/or Displacement,4,0.16
+188,Clinton Hill,LI - Ongoing Gentrification and/or Displacement,3,0.12
+189,Clinton Hill,MHI - Advanced Exclusion,5,0.2
+190,Clinton Hill,MHI - Advanced Gentrification,11,0.44
+191,Clinton Hill,MHI - At Risk of Exclusion,2,0.08
+192,College Point,LI - At Risk of Gentrification and/or Displacement,1,0.1
+193,College Point,LI - Not Losing Low Income Households,3,0.3
+194,College Point,LI - Ongoing Gentrification and/or Displacement,2,0.2
+195,College Point,MHI - Advanced Exclusion,1,0.1
+196,College Point,MHI - At Risk of Exclusion,1,0.1
+197,College Point,MHI - Not Losing Low Income Households,1,0.1
+198,College Point,MHI - Ongoing Exclusion,1,0.1
+199,Co-op City,LI - Ongoing Gentrification and/or Displacement,2,0.18181818181818182
+200,Co-op City,MHI - Advanced Exclusion,7,0.6363636363636364
+201,Co-op City,MHI - Not Losing Low Income Households,1,0.09090909090909091
+202,Co-op City,MHI - Ongoing Exclusion,1,0.09090909090909091
+203,Corona,LI - At Risk of Gentrification and/or Displacement,9,0.36
+204,Corona,LI - Not Losing Low Income Households,11,0.44
+205,Corona,LI - Ongoing Gentrification and/or Displacement,4,0.16
+206,Corona,MHI - Not Losing Low Income Households,1,0.04
+207,Crotona Park East,LI - At Risk of Gentrification and/or Displacement,8,0.38095238095238093
+208,Crotona Park East,LI - Not Losing Low Income Households,6,0.2857142857142857
+209,Crotona Park East,LI - Ongoing Gentrification and/or Displacement,5,0.23809523809523808
+210,Crotona Park East,MHI - Advanced Gentrification,1,0.047619047619047616
+211,Crotona Park East,MHI - Not Losing Low Income Households,1,0.047619047619047616
+212,Crown Heights North,LI - At Risk of Gentrification and/or Displacement,11,0.21153846153846154
+213,Crown Heights North,LI - Not Losing Low Income Households,5,0.09615384615384616
+214,Crown Heights North,LI - Ongoing Gentrification and/or Displacement,22,0.4230769230769231
+215,Crown Heights North,MHI - Advanced Exclusion,3,0.057692307692307696
+216,Crown Heights North,MHI - Advanced Gentrification,10,0.19230769230769232
+217,Crown Heights North,MHI - At Risk of Exclusion,1,0.019230769230769232
+218,Crown Heights South,LI - At Risk of Gentrification and/or Displacement,8,0.34782608695652173
+219,Crown Heights South,LI - Not Losing Low Income Households,4,0.17391304347826086
+220,Crown Heights South,LI - Ongoing Gentrification and/or Displacement,5,0.21739130434782608
+221,Crown Heights South,MHI - Advanced Exclusion,2,0.08695652173913043
+222,Crown Heights South,MHI - Advanced Gentrification,2,0.08695652173913043
+223,Crown Heights South,MHI - At Risk of Exclusion,1,0.043478260869565216
+224,Crown Heights South,MHI - Not Losing Low Income Households,1,0.043478260869565216
+225,Cypress Hills-City Line,LI - At Risk of Gentrification and/or Displacement,12,0.35294117647058826
+226,Cypress Hills-City Line,LI - Not Losing Low Income Households,7,0.20588235294117646
+227,Cypress Hills-City Line,LI - Ongoing Gentrification and/or Displacement,8,0.23529411764705882
+228,Cypress Hills-City Line,MHI - Advanced Gentrification,2,0.058823529411764705
+229,Cypress Hills-City Line,MHI - Not Losing Low Income Households,4,0.11764705882352941
+230,Cypress Hills-City Line,MHI - Ongoing Exclusion,1,0.029411764705882353
+231,Douglas Manor-Douglaston-Little Neck,LI - Not Losing Low Income Households,2,0.16666666666666666
+232,Douglas Manor-Douglaston-Little Neck,MHI - Advanced Exclusion,2,0.16666666666666666
+233,Douglas Manor-Douglaston-Little Neck,MHI - At Risk of Exclusion,1,0.08333333333333333
+234,Douglas Manor-Douglaston-Little Neck,MHI - Not Losing Low Income Households,6,0.5
+235,Douglas Manor-Douglaston-Little Neck,MHI - Ongoing Exclusion,1,0.08333333333333333
+236,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,LI - At Risk of Gentrification and/or Displacement,2,0.06060606060606061
+237,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,LI - Not Losing Low Income Households,4,0.12121212121212122
+238,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,LI - Ongoing Gentrification and/or Displacement,5,0.15151515151515152
+239,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,MHI - Advanced Exclusion,9,0.2727272727272727
+240,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,MHI - Advanced Gentrification,6,0.18181818181818182
+241,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,MHI - At Risk of Exclusion,4,0.12121212121212122
+242,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,MHI - Ongoing Exclusion,3,0.09090909090909091
+243,Dyker Heights,LI - At Risk of Gentrification and/or Displacement,5,0.15625
+244,Dyker Heights,LI - Not Losing Low Income Households,2,0.0625
+245,Dyker Heights,LI - Ongoing Gentrification and/or Displacement,6,0.1875
+246,Dyker Heights,MHI - Advanced Exclusion,4,0.125
+247,Dyker Heights,MHI - Advanced Gentrification,2,0.0625
+248,Dyker Heights,MHI - At Risk of Exclusion,9,0.28125
+249,Dyker Heights,MHI - Not Losing Low Income Households,3,0.09375
+250,Dyker Heights,MHI - Ongoing Exclusion,1,0.03125
+251,Eastchester-Edenwald-Baychester,LI - Not Losing Low Income Households,2,0.08
+252,Eastchester-Edenwald-Baychester,LI - Ongoing Gentrification and/or Displacement,3,0.12
+253,Eastchester-Edenwald-Baychester,MHI - Advanced Exclusion,10,0.4
+254,Eastchester-Edenwald-Baychester,MHI - At Risk of Exclusion,1,0.04
+255,Eastchester-Edenwald-Baychester,MHI - Not Losing Low Income Households,7,0.28
+256,Eastchester-Edenwald-Baychester,MHI - Ongoing Exclusion,2,0.08
+257,East Concourse-Concourse Village,LI - At Risk of Gentrification and/or Displacement,13,0.48148148148148145
+258,East Concourse-Concourse Village,LI - Not Losing Low Income Households,2,0.07407407407407407
+259,East Concourse-Concourse Village,LI - Ongoing Gentrification and/or Displacement,8,0.2962962962962963
+260,East Concourse-Concourse Village,MHI - Advanced Exclusion,1,0.037037037037037035
+261,East Concourse-Concourse Village,MHI - Advanced Gentrification,2,0.07407407407407407
+262,East Concourse-Concourse Village,MHI - Not Losing Low Income Households,1,0.037037037037037035
+263,East Elmhurst,LI - At Risk of Gentrification and/or Displacement,7,0.4375
+264,East Elmhurst,LI - Not Losing Low Income Households,5,0.3125
+265,East Elmhurst,LI - Ongoing Gentrification and/or Displacement,2,0.125
+266,East Elmhurst,MHI - Not Losing Low Income Households,2,0.125
+267,East Flatbush-Farragut,LI - At Risk of Gentrification and/or Displacement,9,0.2571428571428571
+268,East Flatbush-Farragut,LI - Not Losing Low Income Households,7,0.2
+269,East Flatbush-Farragut,LI - Ongoing Gentrification and/or Displacement,3,0.08571428571428572
+270,East Flatbush-Farragut,MHI - Advanced Exclusion,1,0.02857142857142857
+271,East Flatbush-Farragut,MHI - Advanced Gentrification,2,0.05714285714285714
+272,East Flatbush-Farragut,MHI - At Risk of Exclusion,2,0.05714285714285714
+273,East Flatbush-Farragut,MHI - Not Losing Low Income Households,11,0.3142857142857143
+274,East Flushing,LI - At Risk of Gentrification and/or Displacement,4,0.17391304347826086
+275,East Flushing,LI - Not Losing Low Income Households,10,0.43478260869565216
+276,East Flushing,LI - Ongoing Gentrification and/or Displacement,1,0.043478260869565216
+277,East Flushing,MHI - Advanced Exclusion,2,0.08695652173913043
+278,East Flushing,MHI - At Risk of Exclusion,1,0.043478260869565216
+279,East Flushing,MHI - Not Losing Low Income Households,4,0.17391304347826086
+280,East Flushing,MHI - Ongoing Exclusion,1,0.043478260869565216
+281,East Harlem North,LI - At Risk of Gentrification and/or Displacement,5,0.22727272727272727
+282,East Harlem North,LI - Not Losing Low Income Households,6,0.2727272727272727
+283,East Harlem North,LI - Ongoing Gentrification and/or Displacement,10,0.45454545454545453
+284,East Harlem North,MHI - Not Losing Low Income Households,1,0.045454545454545456
+285,East Harlem South,LI - At Risk of Gentrification and/or Displacement,4,0.2
+286,East Harlem South,LI - Not Losing Low Income Households,2,0.1
+287,East Harlem South,LI - Ongoing Gentrification and/or Displacement,8,0.4
+288,East Harlem South,MHI - Advanced Exclusion,2,0.1
+289,East Harlem South,MHI - At Risk of Exclusion,1,0.05
+290,East Harlem South,MHI - Not Losing Low Income Households,2,0.1
+291,East Harlem South,MHI - Ongoing Exclusion,1,0.05
+292,East New York,LI - At Risk of Gentrification and/or Displacement,11,0.22448979591836735
+293,East New York,LI - Not Losing Low Income Households,21,0.42857142857142855
+294,East New York,LI - Ongoing Gentrification and/or Displacement,11,0.22448979591836735
+295,East New York,MHI - Advanced Gentrification,2,0.04081632653061224
+296,East New York,MHI - At Risk of Exclusion,1,0.02040816326530612
+297,East New York,MHI - Not Losing Low Income Households,3,0.061224489795918366
+298,East New York (Pennsylvania Ave),LI - At Risk of Gentrification and/or Displacement,7,0.3181818181818182
+299,East New York (Pennsylvania Ave),LI - Not Losing Low Income Households,9,0.4090909090909091
+300,East New York (Pennsylvania Ave),LI - Ongoing Gentrification and/or Displacement,6,0.2727272727272727
+301,East Tremont,LI - At Risk of Gentrification and/or Displacement,10,0.4166666666666667
+302,East Tremont,LI - Not Losing Low Income Households,4,0.16666666666666666
+303,East Tremont,LI - Ongoing Gentrification and/or Displacement,7,0.2916666666666667
+304,East Tremont,MHI - Advanced Gentrification,1,0.041666666666666664
+305,East Tremont,MHI - Not Losing Low Income Households,2,0.08333333333333333
+306,East Village,LI - Not Losing Low Income Households,1,0.05263157894736842
+307,East Village,LI - Ongoing Gentrification and/or Displacement,10,0.5263157894736842
+308,East Village,MHI - Advanced Exclusion,3,0.15789473684210525
+309,East Village,MHI - Advanced Gentrification,2,0.10526315789473684
+310,East Village,MHI - At Risk of Exclusion,3,0.15789473684210525
+311,East Williamsburg,LI - At Risk of Gentrification and/or Displacement,2,0.07407407407407407
+312,East Williamsburg,LI - Not Losing Low Income Households,2,0.07407407407407407
+313,East Williamsburg,LI - Ongoing Gentrification and/or Displacement,8,0.2962962962962963
+314,East Williamsburg,MHI - Advanced Exclusion,2,0.07407407407407407
+315,East Williamsburg,MHI - Advanced Gentrification,13,0.48148148148148145
+316,Elmhurst,LI - At Risk of Gentrification and/or Displacement,13,0.34210526315789475
+317,Elmhurst,LI - Not Losing Low Income Households,15,0.39473684210526316
+318,Elmhurst,LI - Ongoing Gentrification and/or Displacement,8,0.21052631578947367
+319,Elmhurst,MHI - Advanced Exclusion,1,0.02631578947368421
+320,Elmhurst,MHI - Not Losing Low Income Households,1,0.02631578947368421
+321,Elmhurst-Maspeth,LI - At Risk of Gentrification and/or Displacement,8,0.36363636363636365
+322,Elmhurst-Maspeth,LI - Not Losing Low Income Households,9,0.4090909090909091
+323,Elmhurst-Maspeth,MHI - Advanced Exclusion,1,0.045454545454545456
+324,Elmhurst-Maspeth,MHI - Advanced Gentrification,3,0.13636363636363635
+325,Elmhurst-Maspeth,MHI - Not Losing Low Income Households,1,0.045454545454545456
+326,Erasmus,LI - At Risk of Gentrification and/or Displacement,17,0.7727272727272727
+327,Erasmus,LI - Not Losing Low Income Households,2,0.09090909090909091
+328,Erasmus,LI - Ongoing Gentrification and/or Displacement,3,0.13636363636363635
+329,Far Rockaway-Bayswater,LI - At Risk of Gentrification and/or Displacement,1,0.08333333333333333
+330,Far Rockaway-Bayswater,LI - Not Losing Low Income Households,6,0.5
+331,Far Rockaway-Bayswater,LI - Ongoing Gentrification and/or Displacement,3,0.25
+332,Far Rockaway-Bayswater,MHI - Advanced Exclusion,1,0.08333333333333333
+333,Far Rockaway-Bayswater,MHI - Ongoing Exclusion,1,0.08333333333333333
+334,Flatbush,LI - At Risk of Gentrification and/or Displacement,22,0.4489795918367347
+335,Flatbush,LI - Not Losing Low Income Households,7,0.14285714285714285
+336,Flatbush,LI - Ongoing Gentrification and/or Displacement,4,0.08163265306122448
+337,Flatbush,MHI - Advanced Exclusion,4,0.08163265306122448
+338,Flatbush,MHI - Advanced Gentrification,2,0.04081632653061224
+339,Flatbush,MHI - At Risk of Exclusion,4,0.08163265306122448
+340,Flatbush,MHI - Not Losing Low Income Households,5,0.10204081632653061
+341,Flatbush,MHI - Ongoing Exclusion,1,0.02040816326530612
+342,Flatlands,LI - At Risk of Gentrification and/or Displacement,1,0.02040816326530612
+343,Flatlands,LI - Not Losing Low Income Households,4,0.08163265306122448
+344,Flatlands,MHI - Advanced Exclusion,8,0.16326530612244897
+345,Flatlands,MHI - Advanced Gentrification,3,0.061224489795918366
+346,Flatlands,MHI - At Risk of Exclusion,6,0.12244897959183673
+347,Flatlands,MHI - Not Losing Low Income Households,21,0.42857142857142855
+348,Flatlands,MHI - Ongoing Exclusion,6,0.12244897959183673
+349,Flushing,LI - At Risk of Gentrification and/or Displacement,2,0.08
+350,Flushing,LI - Not Losing Low Income Households,18,0.72
+351,Flushing,LI - Ongoing Gentrification and/or Displacement,2,0.08
+352,Flushing,MHI - Not Losing Low Income Households,2,0.08
+353,Flushing,MHI - Ongoing Exclusion,1,0.04
+354,Fordham South,LI - At Risk of Gentrification and/or Displacement,6,0.35294117647058826
+355,Fordham South,LI - Not Losing Low Income Households,1,0.058823529411764705
+356,Fordham South,LI - Ongoing Gentrification and/or Displacement,10,0.5882352941176471
+357,Forest Hills,LI - At Risk of Gentrification and/or Displacement,1,0.029411764705882353
+358,Forest Hills,LI - Not Losing Low Income Households,6,0.17647058823529413
+359,Forest Hills,LI - Ongoing Gentrification and/or Displacement,3,0.08823529411764706
+360,Forest Hills,MHI - Advanced Exclusion,12,0.35294117647058826
+361,Forest Hills,MHI - Advanced Gentrification,3,0.08823529411764706
+362,Forest Hills,MHI - At Risk of Exclusion,3,0.08823529411764706
+363,Forest Hills,MHI - Not Losing Low Income Households,6,0.17647058823529413
+364,Fort Greene,LI - At Risk of Gentrification and/or Displacement,1,0.043478260869565216
+365,Fort Greene,LI - Not Losing Low Income Households,1,0.043478260869565216
+366,Fort Greene,LI - Ongoing Gentrification and/or Displacement,3,0.13043478260869565
+367,Fort Greene,MHI - Advanced Exclusion,5,0.21739130434782608
+368,Fort Greene,MHI - Advanced Gentrification,7,0.30434782608695654
+369,Fort Greene,MHI - At Risk of Exclusion,6,0.2608695652173913
+370,Fresh Meadows-Utopia,LI - Not Losing Low Income Households,2,0.25
+371,Fresh Meadows-Utopia,MHI - Advanced Exclusion,1,0.125
+372,Fresh Meadows-Utopia,MHI - At Risk of Exclusion,1,0.125
+373,Fresh Meadows-Utopia,MHI - Not Losing Low Income Households,3,0.375
+374,Fresh Meadows-Utopia,MHI - Ongoing Exclusion,1,0.125
+375,Ft. Totten-Bay Terrace-Clearview,LI - Not Losing Low Income Households,1,0.07692307692307693
+376,Ft. Totten-Bay Terrace-Clearview,MHI - Advanced Exclusion,6,0.46153846153846156
+377,Ft. Totten-Bay Terrace-Clearview,MHI - Not Losing Low Income Households,5,0.38461538461538464
+378,Ft. Totten-Bay Terrace-Clearview,MHI - Ongoing Exclusion,1,0.07692307692307693
+379,Georgetown-Marine Park-Bergen Beach-Mill Basin,LI - Not Losing Low Income Households,2,0.0625
+380,Georgetown-Marine Park-Bergen Beach-Mill Basin,MHI - Advanced Exclusion,8,0.25
+381,Georgetown-Marine Park-Bergen Beach-Mill Basin,MHI - Advanced Gentrification,1,0.03125
+382,Georgetown-Marine Park-Bergen Beach-Mill Basin,MHI - At Risk of Exclusion,4,0.125
+383,Georgetown-Marine Park-Bergen Beach-Mill Basin,MHI - Not Losing Low Income Households,12,0.375
+384,Georgetown-Marine Park-Bergen Beach-Mill Basin,MHI - Ongoing Exclusion,5,0.15625
+385,Glendale,LI - At Risk of Gentrification and/or Displacement,1,0.038461538461538464
+386,Glendale,LI - Not Losing Low Income Households,2,0.07692307692307693
+387,Glendale,LI - Ongoing Gentrification and/or Displacement,7,0.2692307692307692
+388,Glendale,MHI - Advanced Exclusion,7,0.2692307692307692
+389,Glendale,MHI - Advanced Gentrification,3,0.11538461538461539
+390,Glendale,MHI - At Risk of Exclusion,1,0.038461538461538464
+391,Glendale,MHI - Not Losing Low Income Households,5,0.19230769230769232
+392,Glen Oaks-Floral Park-New Hyde Park,LI - Not Losing Low Income Households,2,0.15384615384615385
+393,Glen Oaks-Floral Park-New Hyde Park,MHI - Advanced Exclusion,3,0.23076923076923078
+394,Glen Oaks-Floral Park-New Hyde Park,MHI - At Risk of Exclusion,1,0.07692307692307693
+395,Glen Oaks-Floral Park-New Hyde Park,MHI - Not Losing Low Income Households,5,0.38461538461538464
+396,Glen Oaks-Floral Park-New Hyde Park,MHI - Ongoing Exclusion,2,0.15384615384615385
+397,Gramercy,LI - Ongoing Gentrification and/or Displacement,2,0.15384615384615385
+398,Gramercy,MHI - Advanced Exclusion,8,0.6153846153846154
+399,Gramercy,MHI - Advanced Gentrification,1,0.07692307692307693
+400,Gramercy,MHI - At Risk of Exclusion,2,0.15384615384615385
+401,Grasmere-Arrochar-Ft. Wadsworth,LI - Not Losing Low Income Households,8,0.6153846153846154
+402,Grasmere-Arrochar-Ft. Wadsworth,LI - Ongoing Gentrification and/or Displacement,1,0.07692307692307693
+403,Grasmere-Arrochar-Ft. Wadsworth,MHI - Advanced Exclusion,2,0.15384615384615385
+404,Grasmere-Arrochar-Ft. Wadsworth,MHI - Not Losing Low Income Households,1,0.07692307692307693
+405,Grasmere-Arrochar-Ft. Wadsworth,MHI - Ongoing Exclusion,1,0.07692307692307693
+406,Gravesend,LI - At Risk of Gentrification and/or Displacement,1,0.058823529411764705
+407,Gravesend,LI - Not Losing Low Income Households,7,0.4117647058823529
+408,Gravesend,LI - Ongoing Gentrification and/or Displacement,6,0.35294117647058826
+409,Gravesend,MHI - Advanced Exclusion,1,0.058823529411764705
+410,Gravesend,MHI - Advanced Gentrification,1,0.058823529411764705
+411,Gravesend,MHI - Ongoing Exclusion,1,0.058823529411764705
+412,Great Kills,LI - Not Losing Low Income Households,2,0.125
+413,Great Kills,MHI - Advanced Exclusion,6,0.375
+414,Great Kills,MHI - Not Losing Low Income Households,6,0.375
+415,Great Kills,MHI - Ongoing Exclusion,2,0.125
+416,Greenpoint,LI - Ongoing Gentrification and/or Displacement,1,0.05
+417,Greenpoint,MHI - Advanced Exclusion,5,0.25
+418,Greenpoint,MHI - Advanced Gentrification,13,0.65
+419,Greenpoint,MHI - At Risk of Exclusion,1,0.05
+420,Grymes Hill-Clifton-Fox Hills,LI - At Risk of Gentrification and/or Displacement,3,0.21428571428571427
+421,Grymes Hill-Clifton-Fox Hills,LI - Not Losing Low Income Households,6,0.42857142857142855
+422,Grymes Hill-Clifton-Fox Hills,LI - Ongoing Gentrification and/or Displacement,1,0.07142857142857142
+423,Grymes Hill-Clifton-Fox Hills,MHI - Advanced Exclusion,3,0.21428571428571427
+424,Grymes Hill-Clifton-Fox Hills,MHI - Not Losing Low Income Households,1,0.07142857142857142
+425,Hamilton Heights,LI - At Risk of Gentrification and/or Displacement,5,0.3333333333333333
+426,Hamilton Heights,LI - Ongoing Gentrification and/or Displacement,9,0.6
+427,Hamilton Heights,MHI - Not Losing Low Income Households,1,0.06666666666666667
+428,Hammels-Arverne-Edgemere,LI - At Risk of Gentrification and/or Displacement,2,0.16666666666666666
+429,Hammels-Arverne-Edgemere,LI - Not Losing Low Income Households,6,0.5
+430,Hammels-Arverne-Edgemere,LI - Ongoing Gentrification and/or Displacement,4,0.3333333333333333
+431,Highbridge,LI - At Risk of Gentrification and/or Displacement,8,0.47058823529411764
+432,Highbridge,LI - Not Losing Low Income Households,1,0.058823529411764705
+433,Highbridge,LI - Ongoing Gentrification and/or Displacement,7,0.4117647058823529
+434,Highbridge,MHI - Not Losing Low Income Households,1,0.058823529411764705
+435,Hollis,LI - At Risk of Gentrification and/or Displacement,1,0.045454545454545456
+436,Hollis,LI - Not Losing Low Income Households,4,0.18181818181818182
+437,Hollis,LI - Ongoing Gentrification and/or Displacement,1,0.045454545454545456
+438,Hollis,MHI - Advanced Exclusion,3,0.13636363636363635
+439,Hollis,MHI - Advanced Gentrification,1,0.045454545454545456
+440,Hollis,MHI - At Risk of Exclusion,1,0.045454545454545456
+441,Hollis,MHI - Not Losing Low Income Households,9,0.4090909090909091
+442,Hollis,MHI - Ongoing Exclusion,2,0.09090909090909091
+443,Homecrest,LI - At Risk of Gentrification and/or Displacement,4,0.11764705882352941
+444,Homecrest,LI - Not Losing Low Income Households,15,0.4411764705882353
+445,Homecrest,LI - Ongoing Gentrification and/or Displacement,8,0.23529411764705882
+446,Homecrest,MHI - Advanced Exclusion,4,0.11764705882352941
+447,Homecrest,MHI - Advanced Gentrification,1,0.029411764705882353
+448,Homecrest,MHI - Ongoing Exclusion,2,0.058823529411764705
+449,Hudson Yards-Chelsea-Flatiron-Union Square,LI - At Risk of Gentrification and/or Displacement,1,0.03225806451612903
+450,Hudson Yards-Chelsea-Flatiron-Union Square,LI - Ongoing Gentrification and/or Displacement,3,0.0967741935483871
+451,Hudson Yards-Chelsea-Flatiron-Union Square,MHI - Advanced Exclusion,12,0.3870967741935484
+452,Hudson Yards-Chelsea-Flatiron-Union Square,MHI - Advanced Gentrification,6,0.1935483870967742
+453,Hudson Yards-Chelsea-Flatiron-Union Square,MHI - At Risk of Exclusion,6,0.1935483870967742
+454,Hudson Yards-Chelsea-Flatiron-Union Square,MHI - Not Losing Low Income Households,2,0.06451612903225806
+455,Hudson Yards-Chelsea-Flatiron-Union Square,MHI - Ongoing Exclusion,1,0.03225806451612903
+456,Hunters Point-Sunnyside-West Maspeth,LI - At Risk of Gentrification and/or Displacement,5,0.13513513513513514
+457,Hunters Point-Sunnyside-West Maspeth,LI - Not Losing Low Income Households,2,0.05405405405405406
+458,Hunters Point-Sunnyside-West Maspeth,LI - Ongoing Gentrification and/or Displacement,12,0.32432432432432434
+459,Hunters Point-Sunnyside-West Maspeth,MHI - Advanced Exclusion,5,0.13513513513513514
+460,Hunters Point-Sunnyside-West Maspeth,MHI - Advanced Gentrification,7,0.1891891891891892
+461,Hunters Point-Sunnyside-West Maspeth,MHI - At Risk of Exclusion,1,0.02702702702702703
+462,Hunters Point-Sunnyside-West Maspeth,MHI - Not Losing Low Income Households,4,0.10810810810810811
+463,Hunters Point-Sunnyside-West Maspeth,MHI - Ongoing Exclusion,1,0.02702702702702703
+464,Hunts Point,LI - At Risk of Gentrification and/or Displacement,8,0.47058823529411764
+465,Hunts Point,LI - Not Losing Low Income Households,1,0.058823529411764705
+466,Hunts Point,LI - Ongoing Gentrification and/or Displacement,7,0.4117647058823529
+467,Hunts Point,MHI - Advanced Gentrification,1,0.058823529411764705
+468,Jackson Heights,LI - At Risk of Gentrification and/or Displacement,10,0.3125
+469,Jackson Heights,LI - Not Losing Low Income Households,12,0.375
+470,Jackson Heights,LI - Ongoing Gentrification and/or Displacement,5,0.15625
+471,Jackson Heights,MHI - Advanced Exclusion,1,0.03125
+472,Jackson Heights,MHI - Advanced Gentrification,2,0.0625
+473,Jackson Heights,MHI - Not Losing Low Income Households,2,0.0625
+474,Jamaica,LI - At Risk of Gentrification and/or Displacement,9,0.2647058823529412
+475,Jamaica,LI - Not Losing Low Income Households,11,0.3235294117647059
+476,Jamaica,LI - Ongoing Gentrification and/or Displacement,2,0.058823529411764705
+477,Jamaica,MHI - Advanced Exclusion,2,0.058823529411764705
+478,Jamaica,MHI - Advanced Gentrification,4,0.11764705882352941
+479,Jamaica,MHI - At Risk of Exclusion,2,0.058823529411764705
+480,Jamaica,MHI - Not Losing Low Income Households,3,0.08823529411764706
+481,Jamaica,MHI - Ongoing Exclusion,1,0.029411764705882353
+482,Jamaica Estates-Holliswood,LI - At Risk of Gentrification and/or Displacement,1,0.043478260869565216
+483,Jamaica Estates-Holliswood,LI - Not Losing Low Income Households,6,0.2608695652173913
+484,Jamaica Estates-Holliswood,LI - Ongoing Gentrification and/or Displacement,2,0.08695652173913043
+485,Jamaica Estates-Holliswood,MHI - Advanced Exclusion,2,0.08695652173913043
+486,Jamaica Estates-Holliswood,MHI - At Risk of Exclusion,2,0.08695652173913043
+487,Jamaica Estates-Holliswood,MHI - Not Losing Low Income Households,8,0.34782608695652173
+488,Jamaica Estates-Holliswood,MHI - Ongoing Exclusion,2,0.08695652173913043
+489,Kensington-Ocean Parkway,LI - At Risk of Gentrification and/or Displacement,7,0.3684210526315789
+490,Kensington-Ocean Parkway,LI - Ongoing Gentrification and/or Displacement,4,0.21052631578947367
+491,Kensington-Ocean Parkway,MHI - Advanced Exclusion,3,0.15789473684210525
+492,Kensington-Ocean Parkway,MHI - Advanced Gentrification,2,0.10526315789473684
+493,Kensington-Ocean Parkway,MHI - At Risk of Exclusion,1,0.05263157894736842
+494,Kensington-Ocean Parkway,MHI - Not Losing Low Income Households,1,0.05263157894736842
+495,Kensington-Ocean Parkway,MHI - Ongoing Exclusion,1,0.05263157894736842
+496,Kew Gardens,LI - At Risk of Gentrification and/or Displacement,5,0.23809523809523808
+497,Kew Gardens,LI - Not Losing Low Income Households,4,0.19047619047619047
+498,Kew Gardens,MHI - Advanced Exclusion,3,0.14285714285714285
+499,Kew Gardens,MHI - Advanced Gentrification,5,0.23809523809523808
+500,Kew Gardens,MHI - At Risk of Exclusion,2,0.09523809523809523
+501,Kew Gardens,MHI - Not Losing Low Income Households,2,0.09523809523809523
+502,Kew Gardens Hills,LI - At Risk of Gentrification and/or Displacement,1,0.05555555555555555
+503,Kew Gardens Hills,LI - Not Losing Low Income Households,8,0.4444444444444444
+504,Kew Gardens Hills,MHI - Advanced Exclusion,2,0.1111111111111111
+505,Kew Gardens Hills,MHI - Not Losing Low Income Households,7,0.3888888888888889
+506,Kingsbridge Heights,LI - At Risk of Gentrification and/or Displacement,5,0.2631578947368421
+507,Kingsbridge Heights,LI - Not Losing Low Income Households,4,0.21052631578947367
+508,Kingsbridge Heights,LI - Ongoing Gentrification and/or Displacement,6,0.3157894736842105
+509,Kingsbridge Heights,MHI - Advanced Gentrification,1,0.05263157894736842
+510,Kingsbridge Heights,MHI - At Risk of Exclusion,1,0.05263157894736842
+511,Kingsbridge Heights,MHI - Not Losing Low Income Households,2,0.10526315789473684
+512,Laurelton,LI - Not Losing Low Income Households,2,0.10526315789473684
+513,Laurelton,MHI - Advanced Exclusion,4,0.21052631578947367
+514,Laurelton,MHI - At Risk of Exclusion,1,0.05263157894736842
+515,Laurelton,MHI - Not Losing Low Income Households,11,0.5789473684210527
+516,Laurelton,MHI - Ongoing Exclusion,1,0.05263157894736842
+517,Lenox Hill-Roosevelt Island,LI - Not Losing Low Income Households,1,0.05263157894736842
+518,Lenox Hill-Roosevelt Island,MHI - Advanced Exclusion,3,0.15789473684210525
+519,Lenox Hill-Roosevelt Island,MHI - Advanced Gentrification,1,0.05263157894736842
+520,Lenox Hill-Roosevelt Island,MHI - At Risk of Exclusion,4,0.21052631578947367
+521,Lenox Hill-Roosevelt Island,MHI - Not Losing Low Income Households,9,0.47368421052631576
+522,Lenox Hill-Roosevelt Island,MHI - Ongoing Exclusion,1,0.05263157894736842
+523,Lincoln Square,LI - Ongoing Gentrification and/or Displacement,2,0.15384615384615385
+524,Lincoln Square,MHI - Advanced Exclusion,9,0.6923076923076923
+525,Lincoln Square,MHI - At Risk of Exclusion,1,0.07692307692307693
+526,Lincoln Square,MHI - Not Losing Low Income Households,1,0.07692307692307693
+527,Lindenwood-Howard Beach,LI - At Risk of Gentrification and/or Displacement,1,0.07692307692307693
+528,Lindenwood-Howard Beach,LI - Not Losing Low Income Households,5,0.38461538461538464
+529,Lindenwood-Howard Beach,MHI - Advanced Exclusion,2,0.15384615384615385
+530,Lindenwood-Howard Beach,MHI - At Risk of Exclusion,1,0.07692307692307693
+531,Lindenwood-Howard Beach,MHI - Not Losing Low Income Households,4,0.3076923076923077
+532,Longwood,LI - At Risk of Gentrification and/or Displacement,6,0.35294117647058826
+533,Longwood,LI - Not Losing Low Income Households,2,0.11764705882352941
+534,Longwood,LI - Ongoing Gentrification and/or Displacement,7,0.4117647058823529
+535,Longwood,MHI - Advanced Gentrification,2,0.11764705882352941
+536,Lower East Side,LI - At Risk of Gentrification and/or Displacement,3,0.12
+537,Lower East Side,LI - Not Losing Low Income Households,3,0.12
+538,Lower East Side,LI - Ongoing Gentrification and/or Displacement,14,0.56
+539,Lower East Side,MHI - Advanced Exclusion,2,0.08
+540,Lower East Side,MHI - Advanced Gentrification,2,0.08
+541,Lower East Side,MHI - At Risk of Exclusion,1,0.04
+542,Madison,LI - At Risk of Gentrification and/or Displacement,1,0.03125
+543,Madison,LI - Not Losing Low Income Households,11,0.34375
+544,Madison,LI - Ongoing Gentrification and/or Displacement,2,0.0625
+545,Madison,MHI - Advanced Exclusion,5,0.15625
+546,Madison,MHI - Advanced Gentrification,1,0.03125
+547,Madison,MHI - At Risk of Exclusion,4,0.125
+548,Madison,MHI - Not Losing Low Income Households,6,0.1875
+549,Madison,MHI - Ongoing Exclusion,2,0.0625
+550,Manhattanville,LI - At Risk of Gentrification and/or Displacement,1,0.09090909090909091
+551,Manhattanville,LI - Not Losing Low Income Households,2,0.18181818181818182
+552,Manhattanville,LI - Ongoing Gentrification and/or Displacement,7,0.6363636363636364
+553,Manhattanville,MHI - Not Losing Low Income Households,1,0.09090909090909091
+554,Marble Hill-Inwood,LI - At Risk of Gentrification and/or Displacement,5,0.35714285714285715
+555,Marble Hill-Inwood,LI - Not Losing Low Income Households,2,0.14285714285714285
+556,Marble Hill-Inwood,LI - Ongoing Gentrification and/or Displacement,3,0.21428571428571427
+557,Marble Hill-Inwood,MHI - Advanced Gentrification,1,0.07142857142857142
+558,Marble Hill-Inwood,MHI - Not Losing Low Income Households,3,0.21428571428571427
+559,Mariner's Harbor-Arlington-Port Ivory-Graniteville,LI - At Risk of Gentrification and/or Displacement,3,0.21428571428571427
+560,Mariner's Harbor-Arlington-Port Ivory-Graniteville,LI - Not Losing Low Income Households,5,0.35714285714285715
+561,Mariner's Harbor-Arlington-Port Ivory-Graniteville,LI - Ongoing Gentrification and/or Displacement,2,0.14285714285714285
+562,Mariner's Harbor-Arlington-Port Ivory-Graniteville,MHI - Advanced Exclusion,1,0.07142857142857142
+563,Mariner's Harbor-Arlington-Port Ivory-Graniteville,MHI - Advanced Gentrification,1,0.07142857142857142
+564,Mariner's Harbor-Arlington-Port Ivory-Graniteville,MHI - Not Losing Low Income Households,1,0.07142857142857142
+565,Mariner's Harbor-Arlington-Port Ivory-Graniteville,MHI - Ongoing Exclusion,1,0.07142857142857142
+566,Maspeth,LI - At Risk of Gentrification and/or Displacement,3,0.10714285714285714
+567,Maspeth,LI - Not Losing Low Income Households,9,0.32142857142857145
+568,Maspeth,LI - Ongoing Gentrification and/or Displacement,7,0.25
+569,Maspeth,MHI - Advanced Exclusion,2,0.07142857142857142
+570,Maspeth,MHI - Advanced Gentrification,3,0.10714285714285714
+571,Maspeth,MHI - Not Losing Low Income Households,4,0.14285714285714285
+572,Melrose South-Mott Haven North,LI - At Risk of Gentrification and/or Displacement,8,0.38095238095238093
+573,Melrose South-Mott Haven North,LI - Not Losing Low Income Households,2,0.09523809523809523
+574,Melrose South-Mott Haven North,LI - Ongoing Gentrification and/or Displacement,9,0.42857142857142855
+575,Melrose South-Mott Haven North,MHI - Advanced Gentrification,2,0.09523809523809523
+576,Middle Village,LI - Not Losing Low Income Households,10,0.29411764705882354
+577,Middle Village,LI - Ongoing Gentrification and/or Displacement,3,0.08823529411764706
+578,Middle Village,MHI - Advanced Exclusion,8,0.23529411764705882
+579,Middle Village,MHI - Advanced Gentrification,4,0.11764705882352941
+580,Middle Village,MHI - At Risk of Exclusion,1,0.029411764705882353
+581,Middle Village,MHI - Not Losing Low Income Households,7,0.20588235294117646
+582,Middle Village,MHI - Ongoing Exclusion,1,0.029411764705882353
+583,Midtown-Midtown South,LI - At Risk of Gentrification and/or Displacement,1,0.02631578947368421
+584,Midtown-Midtown South,LI - Ongoing Gentrification and/or Displacement,5,0.13157894736842105
+585,Midtown-Midtown South,MHI - Advanced Exclusion,15,0.39473684210526316
+586,Midtown-Midtown South,MHI - Advanced Gentrification,7,0.18421052631578946
+587,Midtown-Midtown South,MHI - At Risk of Exclusion,6,0.15789473684210525
+588,Midtown-Midtown South,MHI - Not Losing Low Income Households,3,0.07894736842105263
+589,Midtown-Midtown South,MHI - Ongoing Exclusion,1,0.02631578947368421
+590,Midwood,LI - At Risk of Gentrification and/or Displacement,2,0.058823529411764705
+591,Midwood,LI - Not Losing Low Income Households,15,0.4411764705882353
+592,Midwood,LI - Ongoing Gentrification and/or Displacement,1,0.029411764705882353
+593,Midwood,MHI - Advanced Exclusion,4,0.11764705882352941
+594,Midwood,MHI - At Risk of Exclusion,6,0.17647058823529413
+595,Midwood,MHI - Not Losing Low Income Households,5,0.14705882352941177
+596,Midwood,MHI - Ongoing Exclusion,1,0.029411764705882353
+597,Morningside Heights,LI - At Risk of Gentrification and/or Displacement,1,0.05263157894736842
+598,Morningside Heights,LI - Not Losing Low Income Households,4,0.21052631578947367
+599,Morningside Heights,LI - Ongoing Gentrification and/or Displacement,9,0.47368421052631576
+600,Morningside Heights,MHI - Advanced Exclusion,2,0.10526315789473684
+601,Morningside Heights,MHI - Advanced Gentrification,2,0.10526315789473684
+602,Morningside Heights,MHI - Not Losing Low Income Households,1,0.05263157894736842
+603,Morrisania-Melrose,LI - At Risk of Gentrification and/or Displacement,10,0.43478260869565216
+604,Morrisania-Melrose,LI - Not Losing Low Income Households,4,0.17391304347826086
+605,Morrisania-Melrose,LI - Ongoing Gentrification and/or Displacement,8,0.34782608695652173
+606,Morrisania-Melrose,MHI - Advanced Gentrification,1,0.043478260869565216
+607,Mott Haven-Port Morris,LI - At Risk of Gentrification and/or Displacement,8,0.3076923076923077
+608,Mott Haven-Port Morris,LI - Not Losing Low Income Households,6,0.23076923076923078
+609,Mott Haven-Port Morris,LI - Ongoing Gentrification and/or Displacement,6,0.23076923076923078
+610,Mott Haven-Port Morris,MHI - Advanced Gentrification,4,0.15384615384615385
+611,Mott Haven-Port Morris,MHI - Not Losing Low Income Households,2,0.07692307692307693
+612,Mount Hope,LI - At Risk of Gentrification and/or Displacement,7,0.2692307692307692
+613,Mount Hope,LI - Not Losing Low Income Households,2,0.07692307692307693
+614,Mount Hope,LI - Ongoing Gentrification and/or Displacement,15,0.5769230769230769
+615,Mount Hope,MHI - Advanced Gentrification,1,0.038461538461538464
+616,Mount Hope,MHI - Not Losing Low Income Households,1,0.038461538461538464
+617,Murray Hill,LI - At Risk of Gentrification and/or Displacement,5,0.18518518518518517
+618,Murray Hill,LI - Not Losing Low Income Households,13,0.48148148148148145
+619,Murray Hill,MHI - Advanced Exclusion,2,0.07407407407407407
+620,Murray Hill,MHI - At Risk of Exclusion,1,0.037037037037037035
+621,Murray Hill,MHI - Not Losing Low Income Households,3,0.1111111111111111
+622,Murray Hill,MHI - Ongoing Exclusion,3,0.1111111111111111
+623,Murray Hill-Kips Bay,LI - Ongoing Gentrification and/or Displacement,2,0.1111111111111111
+624,Murray Hill-Kips Bay,MHI - Advanced Exclusion,9,0.5
+625,Murray Hill-Kips Bay,MHI - Advanced Gentrification,2,0.1111111111111111
+626,Murray Hill-Kips Bay,MHI - At Risk of Exclusion,3,0.16666666666666666
+627,Murray Hill-Kips Bay,MHI - Not Losing Low Income Households,1,0.05555555555555555
+628,Murray Hill-Kips Bay,MHI - Ongoing Exclusion,1,0.05555555555555555
+629,New Brighton-Silver Lake,LI - At Risk of Gentrification and/or Displacement,1,0.058823529411764705
+630,New Brighton-Silver Lake,LI - Not Losing Low Income Households,8,0.47058823529411764
+631,New Brighton-Silver Lake,LI - Ongoing Gentrification and/or Displacement,1,0.058823529411764705
+632,New Brighton-Silver Lake,MHI - Advanced Exclusion,3,0.17647058823529413
+633,New Brighton-Silver Lake,MHI - Advanced Gentrification,1,0.058823529411764705
+634,New Brighton-Silver Lake,MHI - Not Losing Low Income Households,2,0.11764705882352941
+635,New Brighton-Silver Lake,MHI - Ongoing Exclusion,1,0.058823529411764705
+636,New Dorp-Midland Beach,LI - Not Losing Low Income Households,4,0.4
+637,New Dorp-Midland Beach,MHI - Advanced Exclusion,3,0.3
+638,New Dorp-Midland Beach,MHI - Not Losing Low Income Households,1,0.1
+639,New Dorp-Midland Beach,MHI - Ongoing Exclusion,2,0.2
+640,New Springville-Bloomfield-Travis,LI - Not Losing Low Income Households,10,0.35714285714285715
+641,New Springville-Bloomfield-Travis,MHI - Advanced Exclusion,5,0.17857142857142858
+642,New Springville-Bloomfield-Travis,MHI - At Risk of Exclusion,1,0.03571428571428571
+643,New Springville-Bloomfield-Travis,MHI - Not Losing Low Income Households,8,0.2857142857142857
+644,New Springville-Bloomfield-Travis,MHI - Ongoing Exclusion,4,0.14285714285714285
+645,North Corona,LI - At Risk of Gentrification and/or Displacement,14,0.7
+646,North Corona,LI - Not Losing Low Income Households,3,0.15
+647,North Corona,LI - Ongoing Gentrification and/or Displacement,2,0.1
+648,North Corona,MHI - Not Losing Low Income Households,1,0.05
+649,North Riverdale-Fieldston-Riverdale,LI - Not Losing Low Income Households,3,0.17647058823529413
+650,North Riverdale-Fieldston-Riverdale,MHI - Advanced Exclusion,9,0.5294117647058824
+651,North Riverdale-Fieldston-Riverdale,MHI - At Risk of Exclusion,2,0.11764705882352941
+652,North Riverdale-Fieldston-Riverdale,MHI - Not Losing Low Income Households,3,0.17647058823529413
+653,North Side-South Side,LI - At Risk of Gentrification and/or Displacement,4,0.13793103448275862
+654,North Side-South Side,LI - Not Losing Low Income Households,3,0.10344827586206896
+655,North Side-South Side,LI - Ongoing Gentrification and/or Displacement,6,0.20689655172413793
+656,North Side-South Side,MHI - Advanced Exclusion,1,0.034482758620689655
+657,North Side-South Side,MHI - Advanced Gentrification,14,0.4827586206896552
+658,North Side-South Side,MHI - At Risk of Exclusion,1,0.034482758620689655
+659,Norwood,LI - At Risk of Gentrification and/or Displacement,4,0.26666666666666666
+660,Norwood,LI - Not Losing Low Income Households,1,0.06666666666666667
+661,Norwood,LI - Ongoing Gentrification and/or Displacement,2,0.13333333333333333
+662,Norwood,MHI - Advanced Exclusion,3,0.2
+663,Norwood,MHI - Advanced Gentrification,1,0.06666666666666667
+664,Norwood,MHI - At Risk of Exclusion,2,0.13333333333333333
+665,Norwood,MHI - Not Losing Low Income Households,1,0.06666666666666667
+666,Norwood,MHI - Ongoing Exclusion,1,0.06666666666666667
+667,Oakland Gardens,LI - At Risk of Gentrification and/or Displacement,1,0.07142857142857142
+668,Oakland Gardens,LI - Not Losing Low Income Households,4,0.2857142857142857
+669,Oakland Gardens,MHI - Advanced Exclusion,5,0.35714285714285715
+670,Oakland Gardens,MHI - Not Losing Low Income Households,4,0.2857142857142857
+671,Oakwood-Oakwood Beach,LI - Not Losing Low Income Households,4,0.3333333333333333
+672,Oakwood-Oakwood Beach,MHI - Advanced Exclusion,1,0.08333333333333333
+673,Oakwood-Oakwood Beach,MHI - Not Losing Low Income Households,4,0.3333333333333333
+674,Oakwood-Oakwood Beach,MHI - Ongoing Exclusion,3,0.25
+675,Ocean Hill,LI - At Risk of Gentrification and/or Displacement,8,0.2857142857142857
+676,Ocean Hill,LI - Not Losing Low Income Households,7,0.25
+677,Ocean Hill,LI - Ongoing Gentrification and/or Displacement,13,0.4642857142857143
+678,Ocean Parkway South,LI - At Risk of Gentrification and/or Displacement,3,0.13636363636363635
+679,Ocean Parkway South,LI - Not Losing Low Income Households,13,0.5909090909090909
+680,Ocean Parkway South,LI - Ongoing Gentrification and/or Displacement,1,0.045454545454545456
+681,Ocean Parkway South,MHI - Advanced Exclusion,3,0.13636363636363635
+682,Ocean Parkway South,MHI - Not Losing Low Income Households,2,0.09090909090909091
+683,Old Astoria,LI - At Risk of Gentrification and/or Displacement,3,0.15
+684,Old Astoria,LI - Not Losing Low Income Households,1,0.05
+685,Old Astoria,LI - Ongoing Gentrification and/or Displacement,7,0.35
+686,Old Astoria,MHI - Advanced Gentrification,6,0.3
+687,Old Astoria,MHI - Not Losing Low Income Households,3,0.15
+688,Old Town-Dongan Hills-South Beach,LI - Not Losing Low Income Households,7,0.5833333333333334
+689,Old Town-Dongan Hills-South Beach,MHI - Advanced Exclusion,1,0.08333333333333333
+690,Old Town-Dongan Hills-South Beach,MHI - Not Losing Low Income Households,1,0.08333333333333333
+691,Old Town-Dongan Hills-South Beach,MHI - Ongoing Exclusion,3,0.25
+692,Ozone Park,LI - At Risk of Gentrification and/or Displacement,4,0.2222222222222222
+693,Ozone Park,LI - Not Losing Low Income Households,6,0.3333333333333333
+694,Ozone Park,LI - Ongoing Gentrification and/or Displacement,2,0.1111111111111111
+695,Ozone Park,MHI - Advanced Exclusion,2,0.1111111111111111
+696,Ozone Park,MHI - Advanced Gentrification,2,0.1111111111111111
+697,Ozone Park,MHI - At Risk of Exclusion,2,0.1111111111111111
+698,park-cemetery-etc-Bronx,LI - At Risk of Gentrification and/or Displacement,19,0.2835820895522388
+699,park-cemetery-etc-Bronx,LI - Not Losing Low Income Households,12,0.1791044776119403
+700,park-cemetery-etc-Bronx,LI - Ongoing Gentrification and/or Displacement,5,0.07462686567164178
+701,park-cemetery-etc-Bronx,MHI - Advanced Exclusion,13,0.19402985074626866
+702,park-cemetery-etc-Bronx,MHI - Advanced Gentrification,2,0.029850746268656716
+703,park-cemetery-etc-Bronx,MHI - At Risk of Exclusion,4,0.05970149253731343
+704,park-cemetery-etc-Bronx,MHI - Not Losing Low Income Households,8,0.11940298507462686
+705,park-cemetery-etc-Bronx,MHI - Ongoing Exclusion,4,0.05970149253731343
+706,park-cemetery-etc-Brooklyn,LI - At Risk of Gentrification and/or Displacement,8,0.10810810810810811
+707,park-cemetery-etc-Brooklyn,LI - Not Losing Low Income Households,8,0.10810810810810811
+708,park-cemetery-etc-Brooklyn,LI - Ongoing Gentrification and/or Displacement,11,0.14864864864864866
+709,park-cemetery-etc-Brooklyn,MHI - Advanced Exclusion,11,0.14864864864864866
+710,park-cemetery-etc-Brooklyn,MHI - Advanced Gentrification,8,0.10810810810810811
+711,park-cemetery-etc-Brooklyn,MHI - At Risk of Exclusion,9,0.12162162162162163
+712,park-cemetery-etc-Brooklyn,MHI - Not Losing Low Income Households,16,0.21621621621621623
+713,park-cemetery-etc-Brooklyn,MHI - Ongoing Exclusion,3,0.04054054054054054
+714,park-cemetery-etc-Manhattan,LI - At Risk of Gentrification and/or Displacement,9,0.14754098360655737
+715,park-cemetery-etc-Manhattan,LI - Not Losing Low Income Households,7,0.11475409836065574
+716,park-cemetery-etc-Manhattan,LI - Ongoing Gentrification and/or Displacement,12,0.19672131147540983
+717,park-cemetery-etc-Manhattan,MHI - Advanced Exclusion,17,0.2786885245901639
+718,park-cemetery-etc-Manhattan,MHI - Advanced Gentrification,1,0.01639344262295082
+719,park-cemetery-etc-Manhattan,MHI - At Risk of Exclusion,4,0.06557377049180328
+720,park-cemetery-etc-Manhattan,MHI - Not Losing Low Income Households,11,0.18032786885245902
+721,park-cemetery-etc-Queens,LI - At Risk of Gentrification and/or Displacement,8,0.07079646017699115
+722,park-cemetery-etc-Queens,LI - Not Losing Low Income Households,22,0.19469026548672566
+723,park-cemetery-etc-Queens,LI - Ongoing Gentrification and/or Displacement,8,0.07079646017699115
+724,park-cemetery-etc-Queens,MHI - Advanced Exclusion,25,0.22123893805309736
+725,park-cemetery-etc-Queens,MHI - Advanced Gentrification,8,0.07079646017699115
+726,park-cemetery-etc-Queens,MHI - At Risk of Exclusion,5,0.04424778761061947
+727,park-cemetery-etc-Queens,MHI - Not Losing Low Income Households,35,0.30973451327433627
+728,park-cemetery-etc-Queens,MHI - Ongoing Exclusion,2,0.017699115044247787
+729,park-cemetery-etc-Staten Island,LI - Not Losing Low Income Households,1,0.2
+730,park-cemetery-etc-Staten Island,MHI - Not Losing Low Income Households,3,0.6
+731,park-cemetery-etc-Staten Island,MHI - Ongoing Exclusion,1,0.2
+732,Parkchester,LI - At Risk of Gentrification and/or Displacement,2,0.14285714285714285
+733,Parkchester,LI - Not Losing Low Income Households,1,0.07142857142857142
+734,Parkchester,LI - Ongoing Gentrification and/or Displacement,2,0.14285714285714285
+735,Parkchester,MHI - Advanced Exclusion,2,0.14285714285714285
+736,Parkchester,MHI - Advanced Gentrification,4,0.2857142857142857
+737,Parkchester,MHI - At Risk of Exclusion,3,0.21428571428571427
+738,Park Slope-Gowanus,LI - Not Losing Low Income Households,1,0.030303030303030304
+739,Park Slope-Gowanus,MHI - Advanced Exclusion,12,0.36363636363636365
+740,Park Slope-Gowanus,MHI - Advanced Gentrification,9,0.2727272727272727
+741,Park Slope-Gowanus,MHI - At Risk of Exclusion,6,0.18181818181818182
+742,Park Slope-Gowanus,MHI - Not Losing Low Income Households,1,0.030303030303030304
+743,Park Slope-Gowanus,MHI - Ongoing Exclusion,4,0.12121212121212122
+744,Pelham Bay-Country Club-City Island,MHI - Advanced Exclusion,4,0.3333333333333333
+745,Pelham Bay-Country Club-City Island,MHI - Advanced Gentrification,1,0.08333333333333333
+746,Pelham Bay-Country Club-City Island,MHI - At Risk of Exclusion,2,0.16666666666666666
+747,Pelham Bay-Country Club-City Island,MHI - Not Losing Low Income Households,4,0.3333333333333333
+748,Pelham Bay-Country Club-City Island,MHI - Ongoing Exclusion,1,0.08333333333333333
+749,Pelham Parkway,LI - At Risk of Gentrification and/or Displacement,1,0.041666666666666664
+750,Pelham Parkway,LI - Not Losing Low Income Households,1,0.041666666666666664
+751,Pelham Parkway,LI - Ongoing Gentrification and/or Displacement,2,0.08333333333333333
+752,Pelham Parkway,MHI - Advanced Exclusion,5,0.20833333333333334
+753,Pelham Parkway,MHI - Advanced Gentrification,3,0.125
+754,Pelham Parkway,MHI - At Risk of Exclusion,2,0.08333333333333333
+755,Pelham Parkway,MHI - Not Losing Low Income Households,5,0.20833333333333334
+756,Pelham Parkway,MHI - Ongoing Exclusion,5,0.20833333333333334
+757,Pomonok-Flushing Heights-Hillcrest,LI - Not Losing Low Income Households,8,0.38095238095238093
+758,Pomonok-Flushing Heights-Hillcrest,MHI - Advanced Exclusion,2,0.09523809523809523
+759,Pomonok-Flushing Heights-Hillcrest,MHI - At Risk of Exclusion,1,0.047619047619047616
+760,Pomonok-Flushing Heights-Hillcrest,MHI - Not Losing Low Income Households,8,0.38095238095238093
+761,Pomonok-Flushing Heights-Hillcrest,MHI - Ongoing Exclusion,2,0.09523809523809523
+762,Port Richmond,LI - At Risk of Gentrification and/or Displacement,3,0.25
+763,Port Richmond,LI - Not Losing Low Income Households,5,0.4166666666666667
+764,Port Richmond,LI - Ongoing Gentrification and/or Displacement,1,0.08333333333333333
+765,Port Richmond,MHI - Advanced Exclusion,2,0.16666666666666666
+766,Port Richmond,MHI - Ongoing Exclusion,1,0.08333333333333333
+767,Prospect Heights,LI - Ongoing Gentrification and/or Displacement,1,0.07142857142857142
+768,Prospect Heights,MHI - Advanced Exclusion,2,0.14285714285714285
+769,Prospect Heights,MHI - Advanced Gentrification,3,0.21428571428571427
+770,Prospect Heights,MHI - At Risk of Exclusion,6,0.42857142857142855
+771,Prospect Heights,MHI - Not Losing Low Income Households,1,0.07142857142857142
+772,Prospect Heights,MHI - Ongoing Exclusion,1,0.07142857142857142
+773,Prospect Lefferts Gardens-Wingate,LI - At Risk of Gentrification and/or Displacement,18,0.5
+774,Prospect Lefferts Gardens-Wingate,LI - Not Losing Low Income Households,5,0.1388888888888889
+775,Prospect Lefferts Gardens-Wingate,LI - Ongoing Gentrification and/or Displacement,8,0.2222222222222222
+776,Prospect Lefferts Gardens-Wingate,MHI - Advanced Exclusion,2,0.05555555555555555
+777,Prospect Lefferts Gardens-Wingate,MHI - Advanced Gentrification,1,0.027777777777777776
+778,Prospect Lefferts Gardens-Wingate,MHI - At Risk of Exclusion,1,0.027777777777777776
+779,Prospect Lefferts Gardens-Wingate,MHI - Not Losing Low Income Households,1,0.027777777777777776
+780,Queensboro Hill,LI - Not Losing Low Income Households,7,0.4117647058823529
+781,Queensboro Hill,LI - Ongoing Gentrification and/or Displacement,1,0.058823529411764705
+782,Queensboro Hill,MHI - Advanced Exclusion,3,0.17647058823529413
+783,Queensboro Hill,MHI - Not Losing Low Income Households,6,0.35294117647058826
+784,Queensbridge-Ravenswood-Long Island City,LI - At Risk of Gentrification and/or Displacement,4,0.2222222222222222
+785,Queensbridge-Ravenswood-Long Island City,LI - Not Losing Low Income Households,1,0.05555555555555555
+786,Queensbridge-Ravenswood-Long Island City,LI - Ongoing Gentrification and/or Displacement,6,0.3333333333333333
+787,Queensbridge-Ravenswood-Long Island City,MHI - Advanced Gentrification,4,0.2222222222222222
+788,Queensbridge-Ravenswood-Long Island City,MHI - Not Losing Low Income Households,3,0.16666666666666666
+789,Queens Village,LI - At Risk of Gentrification and/or Displacement,4,0.11428571428571428
+790,Queens Village,LI - Not Losing Low Income Households,3,0.08571428571428572
+791,Queens Village,LI - Ongoing Gentrification and/or Displacement,2,0.05714285714285714
+792,Queens Village,MHI - Advanced Exclusion,6,0.17142857142857143
+793,Queens Village,MHI - At Risk of Exclusion,2,0.05714285714285714
+794,Queens Village,MHI - Not Losing Low Income Households,15,0.42857142857142855
+795,Queens Village,MHI - Ongoing Exclusion,3,0.08571428571428572
+796,Rego Park,LI - At Risk of Gentrification and/or Displacement,2,0.09523809523809523
+797,Rego Park,LI - Not Losing Low Income Households,9,0.42857142857142855
+798,Rego Park,LI - Ongoing Gentrification and/or Displacement,3,0.14285714285714285
+799,Rego Park,MHI - Advanced Exclusion,4,0.19047619047619047
+800,Rego Park,MHI - Not Losing Low Income Households,3,0.14285714285714285
+801,Richmond Hill,LI - At Risk of Gentrification and/or Displacement,9,0.20930232558139536
+802,Richmond Hill,LI - Not Losing Low Income Households,9,0.20930232558139536
+803,Richmond Hill,LI - Ongoing Gentrification and/or Displacement,7,0.16279069767441862
+804,Richmond Hill,MHI - Advanced Exclusion,5,0.11627906976744186
+805,Richmond Hill,MHI - Advanced Gentrification,6,0.13953488372093023
+806,Richmond Hill,MHI - At Risk of Exclusion,2,0.046511627906976744
+807,Richmond Hill,MHI - Not Losing Low Income Households,1,0.023255813953488372
+808,Richmond Hill,MHI - Ongoing Exclusion,4,0.09302325581395349
+809,Ridgewood,LI - At Risk of Gentrification and/or Displacement,6,0.15384615384615385
+810,Ridgewood,LI - Not Losing Low Income Households,4,0.10256410256410256
+811,Ridgewood,LI - Ongoing Gentrification and/or Displacement,18,0.46153846153846156
+812,Ridgewood,MHI - Advanced Exclusion,2,0.05128205128205128
+813,Ridgewood,MHI - Advanced Gentrification,5,0.1282051282051282
+814,Ridgewood,MHI - Not Losing Low Income Households,4,0.10256410256410256
+815,Rikers Island,LI - Ongoing Gentrification and/or Displacement,1,0.25
+816,Rikers Island,MHI - Not Losing Low Income Households,3,0.75
+817,Rosedale,LI - Not Losing Low Income Households,1,0.047619047619047616
+818,Rosedale,MHI - Advanced Exclusion,3,0.14285714285714285
+819,Rosedale,MHI - At Risk of Exclusion,1,0.047619047619047616
+820,Rosedale,MHI - Not Losing Low Income Households,13,0.6190476190476191
+821,Rosedale,MHI - Ongoing Exclusion,3,0.14285714285714285
+822,Rossville-Woodrow,MHI - Advanced Exclusion,3,0.3
+823,Rossville-Woodrow,MHI - Not Losing Low Income Households,7,0.7
+824,Rugby-Remsen Village,LI - At Risk of Gentrification and/or Displacement,10,0.29411764705882354
+825,Rugby-Remsen Village,LI - Not Losing Low Income Households,9,0.2647058823529412
+826,Rugby-Remsen Village,LI - Ongoing Gentrification and/or Displacement,4,0.11764705882352941
+827,Rugby-Remsen Village,MHI - Advanced Exclusion,2,0.058823529411764705
+828,Rugby-Remsen Village,MHI - Advanced Gentrification,2,0.058823529411764705
+829,Rugby-Remsen Village,MHI - At Risk of Exclusion,1,0.029411764705882353
+830,Rugby-Remsen Village,MHI - Not Losing Low Income Households,6,0.17647058823529413
+831,Schuylerville-Throgs Neck-Edgewater Park,LI - At Risk of Gentrification and/or Displacement,1,0.045454545454545456
+832,Schuylerville-Throgs Neck-Edgewater Park,LI - Not Losing Low Income Households,2,0.09090909090909091
+833,Schuylerville-Throgs Neck-Edgewater Park,MHI - Advanced Exclusion,7,0.3181818181818182
+834,Schuylerville-Throgs Neck-Edgewater Park,MHI - Advanced Gentrification,3,0.13636363636363635
+835,Schuylerville-Throgs Neck-Edgewater Park,MHI - At Risk of Exclusion,1,0.045454545454545456
+836,Schuylerville-Throgs Neck-Edgewater Park,MHI - Not Losing Low Income Households,5,0.22727272727272727
+837,Schuylerville-Throgs Neck-Edgewater Park,MHI - Ongoing Exclusion,3,0.13636363636363635
+838,Seagate-Coney Island,LI - Not Losing Low Income Households,9,0.5294117647058824
+839,Seagate-Coney Island,LI - Ongoing Gentrification and/or Displacement,5,0.29411764705882354
+840,Seagate-Coney Island,MHI - Advanced Exclusion,1,0.058823529411764705
+841,Seagate-Coney Island,MHI - Advanced Gentrification,1,0.058823529411764705
+842,Seagate-Coney Island,MHI - Not Losing Low Income Households,1,0.058823529411764705
+843,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,LI - At Risk of Gentrification and/or Displacement,1,0.03125
+844,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,LI - Not Losing Low Income Households,7,0.21875
+845,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,LI - Ongoing Gentrification and/or Displacement,4,0.125
+846,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,MHI - Advanced Exclusion,4,0.125
+847,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,MHI - Advanced Gentrification,2,0.0625
+848,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,MHI - At Risk of Exclusion,2,0.0625
+849,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,MHI - Not Losing Low Income Households,10,0.3125
+850,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,MHI - Ongoing Exclusion,2,0.0625
+851,SoHo-TriBeCa-Civic Center-Little Italy,LI - At Risk of Gentrification and/or Displacement,1,0.043478260869565216
+852,SoHo-TriBeCa-Civic Center-Little Italy,LI - Ongoing Gentrification and/or Displacement,7,0.30434782608695654
+853,SoHo-TriBeCa-Civic Center-Little Italy,MHI - Advanced Exclusion,8,0.34782608695652173
+854,SoHo-TriBeCa-Civic Center-Little Italy,MHI - Advanced Gentrification,2,0.08695652173913043
+855,SoHo-TriBeCa-Civic Center-Little Italy,MHI - At Risk of Exclusion,4,0.17391304347826086
+856,SoHo-TriBeCa-Civic Center-Little Italy,MHI - Ongoing Exclusion,1,0.043478260869565216
+857,Soundview-Bruckner,LI - At Risk of Gentrification and/or Displacement,9,0.4090909090909091
+858,Soundview-Bruckner,LI - Not Losing Low Income Households,5,0.22727272727272727
+859,Soundview-Bruckner,LI - Ongoing Gentrification and/or Displacement,2,0.09090909090909091
+860,Soundview-Bruckner,MHI - Advanced Exclusion,1,0.045454545454545456
+861,Soundview-Bruckner,MHI - Advanced Gentrification,2,0.09090909090909091
+862,Soundview-Bruckner,MHI - Not Losing Low Income Households,1,0.045454545454545456
+863,Soundview-Bruckner,MHI - Ongoing Exclusion,2,0.09090909090909091
+864,Soundview-Castle Hill-Clason Point-Harding Park,LI - At Risk of Gentrification and/or Displacement,2,0.09090909090909091
+865,Soundview-Castle Hill-Clason Point-Harding Park,LI - Not Losing Low Income Households,9,0.4090909090909091
+866,Soundview-Castle Hill-Clason Point-Harding Park,LI - Ongoing Gentrification and/or Displacement,1,0.045454545454545456
+867,Soundview-Castle Hill-Clason Point-Harding Park,MHI - Advanced Exclusion,3,0.13636363636363635
+868,Soundview-Castle Hill-Clason Point-Harding Park,MHI - Advanced Gentrification,4,0.18181818181818182
+869,Soundview-Castle Hill-Clason Point-Harding Park,MHI - Not Losing Low Income Households,1,0.045454545454545456
+870,Soundview-Castle Hill-Clason Point-Harding Park,MHI - Ongoing Exclusion,2,0.09090909090909091
+871,South Jamaica,LI - At Risk of Gentrification and/or Displacement,2,0.07692307692307693
+872,South Jamaica,LI - Not Losing Low Income Households,8,0.3076923076923077
+873,South Jamaica,LI - Ongoing Gentrification and/or Displacement,2,0.07692307692307693
+874,South Jamaica,MHI - Advanced Exclusion,1,0.038461538461538464
+875,South Jamaica,MHI - Advanced Gentrification,4,0.15384615384615385
+876,South Jamaica,MHI - At Risk of Exclusion,1,0.038461538461538464
+877,South Jamaica,MHI - Not Losing Low Income Households,5,0.19230769230769232
+878,South Jamaica,MHI - Ongoing Exclusion,3,0.11538461538461539
+879,South Ozone Park,LI - At Risk of Gentrification and/or Displacement,3,0.06666666666666667
+880,South Ozone Park,LI - Not Losing Low Income Households,13,0.28888888888888886
+881,South Ozone Park,LI - Ongoing Gentrification and/or Displacement,3,0.06666666666666667
+882,South Ozone Park,MHI - Advanced Exclusion,6,0.13333333333333333
+883,South Ozone Park,MHI - Advanced Gentrification,6,0.13333333333333333
+884,South Ozone Park,MHI - At Risk of Exclusion,5,0.1111111111111111
+885,South Ozone Park,MHI - Not Losing Low Income Households,7,0.15555555555555556
+886,South Ozone Park,MHI - Ongoing Exclusion,2,0.044444444444444446
+887,Springfield Gardens North,LI - Not Losing Low Income Households,4,0.36363636363636365
+888,Springfield Gardens North,LI - Ongoing Gentrification and/or Displacement,1,0.09090909090909091
+889,Springfield Gardens North,MHI - Advanced Exclusion,1,0.09090909090909091
+890,Springfield Gardens North,MHI - At Risk of Exclusion,1,0.09090909090909091
+891,Springfield Gardens North,MHI - Not Losing Low Income Households,4,0.36363636363636365
+892,Springfield Gardens South-Brookville,LI - Not Losing Low Income Households,2,0.125
+893,Springfield Gardens South-Brookville,MHI - Advanced Exclusion,1,0.0625
+894,Springfield Gardens South-Brookville,MHI - Advanced Gentrification,1,0.0625
+895,Springfield Gardens South-Brookville,MHI - At Risk of Exclusion,2,0.125
+896,Springfield Gardens South-Brookville,MHI - Not Losing Low Income Households,8,0.5
+897,Springfield Gardens South-Brookville,MHI - Ongoing Exclusion,2,0.125
+898,Spuyten Duyvil-Kingsbridge,LI - At Risk of Gentrification and/or Displacement,3,0.15789473684210525
+899,Spuyten Duyvil-Kingsbridge,LI - Not Losing Low Income Households,1,0.05263157894736842
+900,Spuyten Duyvil-Kingsbridge,MHI - Advanced Exclusion,9,0.47368421052631576
+901,Spuyten Duyvil-Kingsbridge,MHI - Advanced Gentrification,2,0.10526315789473684
+902,Spuyten Duyvil-Kingsbridge,MHI - At Risk of Exclusion,1,0.05263157894736842
+903,Spuyten Duyvil-Kingsbridge,MHI - Not Losing Low Income Households,3,0.15789473684210525
+904,St. Albans,LI - At Risk of Gentrification and/or Displacement,1,0.022222222222222223
+905,St. Albans,LI - Not Losing Low Income Households,11,0.24444444444444444
+906,St. Albans,LI - Ongoing Gentrification and/or Displacement,4,0.08888888888888889
+907,St. Albans,MHI - Advanced Exclusion,4,0.08888888888888889
+908,St. Albans,MHI - Advanced Gentrification,2,0.044444444444444446
+909,St. Albans,MHI - At Risk of Exclusion,2,0.044444444444444446
+910,St. Albans,MHI - Not Losing Low Income Households,18,0.4
+911,St. Albans,MHI - Ongoing Exclusion,3,0.06666666666666667
+912,Stapleton-Rosebank,LI - At Risk of Gentrification and/or Displacement,3,0.1875
+913,Stapleton-Rosebank,LI - Not Losing Low Income Households,5,0.3125
+914,Stapleton-Rosebank,LI - Ongoing Gentrification and/or Displacement,3,0.1875
+915,Stapleton-Rosebank,MHI - Advanced Exclusion,3,0.1875
+916,Stapleton-Rosebank,MHI - Not Losing Low Income Households,1,0.0625
+917,Stapleton-Rosebank,MHI - Ongoing Exclusion,1,0.0625
+918,Starrett City,LI - Not Losing Low Income Households,4,0.5714285714285714
+919,Starrett City,MHI - Not Losing Low Income Households,3,0.42857142857142855
+920,Steinway,LI - At Risk of Gentrification and/or Displacement,3,0.10714285714285714
+921,Steinway,LI - Not Losing Low Income Households,4,0.14285714285714285
+922,Steinway,LI - Ongoing Gentrification and/or Displacement,3,0.10714285714285714
+923,Steinway,MHI - Advanced Exclusion,2,0.07142857142857142
+924,Steinway,MHI - Advanced Gentrification,7,0.25
+925,Steinway,MHI - At Risk of Exclusion,3,0.10714285714285714
+926,Steinway,MHI - Not Losing Low Income Households,6,0.21428571428571427
+927,Stuyvesant Heights,LI - At Risk of Gentrification and/or Displacement,7,0.2
+928,Stuyvesant Heights,LI - Not Losing Low Income Households,5,0.14285714285714285
+929,Stuyvesant Heights,LI - Ongoing Gentrification and/or Displacement,19,0.5428571428571428
+930,Stuyvesant Heights,MHI - Advanced Exclusion,1,0.02857142857142857
+931,Stuyvesant Heights,MHI - Advanced Gentrification,3,0.08571428571428572
+932,Stuyvesant Town-Cooper Village,LI - At Risk of Gentrification and/or Displacement,1,0.14285714285714285
+933,Stuyvesant Town-Cooper Village,LI - Not Losing Low Income Households,1,0.14285714285714285
+934,Stuyvesant Town-Cooper Village,LI - Ongoing Gentrification and/or Displacement,1,0.14285714285714285
+935,Stuyvesant Town-Cooper Village,MHI - Advanced Exclusion,2,0.2857142857142857
+936,Stuyvesant Town-Cooper Village,MHI - Advanced Gentrification,1,0.14285714285714285
+937,Stuyvesant Town-Cooper Village,MHI - At Risk of Exclusion,1,0.14285714285714285
+938,Sunset Park East,LI - At Risk of Gentrification and/or Displacement,10,0.3225806451612903
+939,Sunset Park East,LI - Not Losing Low Income Households,6,0.1935483870967742
+940,Sunset Park East,LI - Ongoing Gentrification and/or Displacement,11,0.3548387096774194
+941,Sunset Park East,MHI - Advanced Exclusion,1,0.03225806451612903
+942,Sunset Park East,MHI - At Risk of Exclusion,1,0.03225806451612903
+943,Sunset Park East,MHI - Not Losing Low Income Households,2,0.06451612903225806
+944,Sunset Park West,LI - At Risk of Gentrification and/or Displacement,5,0.15151515151515152
+945,Sunset Park West,LI - Not Losing Low Income Households,1,0.030303030303030304
+946,Sunset Park West,LI - Ongoing Gentrification and/or Displacement,13,0.3939393939393939
+947,Sunset Park West,MHI - Advanced Exclusion,2,0.06060606060606061
+948,Sunset Park West,MHI - Advanced Gentrification,7,0.21212121212121213
+949,Sunset Park West,MHI - At Risk of Exclusion,3,0.09090909090909091
+950,Sunset Park West,MHI - Not Losing Low Income Households,2,0.06060606060606061
+951,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,LI - Not Losing Low Income Households,9,0.3333333333333333
+952,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,MHI - Advanced Exclusion,8,0.2962962962962963
+953,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,MHI - Not Losing Low Income Households,5,0.18518518518518517
+954,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,MHI - Ongoing Exclusion,5,0.18518518518518517
+955,Turtle Bay-East Midtown,MHI - Advanced Exclusion,8,0.36363636363636365
+956,Turtle Bay-East Midtown,MHI - Advanced Gentrification,2,0.09090909090909091
+957,Turtle Bay-East Midtown,MHI - At Risk of Exclusion,4,0.18181818181818182
+958,Turtle Bay-East Midtown,MHI - Not Losing Low Income Households,7,0.3181818181818182
+959,Turtle Bay-East Midtown,MHI - Ongoing Exclusion,1,0.045454545454545456
+960,University Heights-Morris Heights,LI - At Risk of Gentrification and/or Displacement,7,0.2692307692307692
+961,University Heights-Morris Heights,LI - Not Losing Low Income Households,5,0.19230769230769232
+962,University Heights-Morris Heights,LI - Ongoing Gentrification and/or Displacement,11,0.4230769230769231
+963,University Heights-Morris Heights,MHI - Advanced Gentrification,1,0.038461538461538464
+964,University Heights-Morris Heights,MHI - Not Losing Low Income Households,2,0.07692307692307693
+965,Upper East Side-Carnegie Hill,MHI - Advanced Exclusion,11,0.39285714285714285
+966,Upper East Side-Carnegie Hill,MHI - At Risk of Exclusion,5,0.17857142857142858
+967,Upper East Side-Carnegie Hill,MHI - Not Losing Low Income Households,10,0.35714285714285715
+968,Upper East Side-Carnegie Hill,MHI - Ongoing Exclusion,2,0.07142857142857142
+969,Upper West Side,LI - Not Losing Low Income Households,2,0.09523809523809523
+970,Upper West Side,LI - Ongoing Gentrification and/or Displacement,2,0.09523809523809523
+971,Upper West Side,MHI - Advanced Exclusion,8,0.38095238095238093
+972,Upper West Side,MHI - Advanced Gentrification,2,0.09523809523809523
+973,Upper West Side,MHI - At Risk of Exclusion,4,0.19047619047619047
+974,Upper West Side,MHI - Not Losing Low Income Households,2,0.09523809523809523
+975,Upper West Side,MHI - Ongoing Exclusion,1,0.047619047619047616
+976,Van Cortlandt Village,LI - At Risk of Gentrification and/or Displacement,6,0.3
+977,Van Cortlandt Village,LI - Not Losing Low Income Households,3,0.15
+978,Van Cortlandt Village,LI - Ongoing Gentrification and/or Displacement,4,0.2
+979,Van Cortlandt Village,MHI - Advanced Exclusion,2,0.1
+980,Van Cortlandt Village,MHI - Advanced Gentrification,3,0.15
+981,Van Cortlandt Village,MHI - At Risk of Exclusion,1,0.05
+982,Van Cortlandt Village,MHI - Not Losing Low Income Households,1,0.05
+983,Van Nest-Morris Park-Westchester Square,LI - At Risk of Gentrification and/or Displacement,6,0.16666666666666666
+984,Van Nest-Morris Park-Westchester Square,LI - Not Losing Low Income Households,1,0.027777777777777776
+985,Van Nest-Morris Park-Westchester Square,LI - Ongoing Gentrification and/or Displacement,1,0.027777777777777776
+986,Van Nest-Morris Park-Westchester Square,MHI - Advanced Exclusion,7,0.19444444444444445
+987,Van Nest-Morris Park-Westchester Square,MHI - Advanced Gentrification,8,0.2222222222222222
+988,Van Nest-Morris Park-Westchester Square,MHI - At Risk of Exclusion,6,0.16666666666666666
+989,Van Nest-Morris Park-Westchester Square,MHI - Not Losing Low Income Households,4,0.1111111111111111
+990,Van Nest-Morris Park-Westchester Square,MHI - Ongoing Exclusion,3,0.08333333333333333
+991,Washington Heights North,LI - At Risk of Gentrification and/or Displacement,6,0.3333333333333333
+992,Washington Heights North,LI - Not Losing Low Income Households,2,0.1111111111111111
+993,Washington Heights North,LI - Ongoing Gentrification and/or Displacement,6,0.3333333333333333
+994,Washington Heights North,MHI - Advanced Exclusion,1,0.05555555555555555
+995,Washington Heights North,MHI - Advanced Gentrification,1,0.05555555555555555
+996,Washington Heights North,MHI - Not Losing Low Income Households,2,0.1111111111111111
+997,Washington Heights South,LI - At Risk of Gentrification and/or Displacement,7,0.3684210526315789
+998,Washington Heights South,LI - Ongoing Gentrification and/or Displacement,10,0.5263157894736842
+999,Washington Heights South,MHI - Advanced Gentrification,1,0.05263157894736842
+1000,Washington Heights South,MHI - Not Losing Low Income Households,1,0.05263157894736842
+1001,West Brighton,LI - At Risk of Gentrification and/or Displacement,2,0.16666666666666666
+1002,West Brighton,LI - Not Losing Low Income Households,7,0.5833333333333334
+1003,West Brighton,LI - Ongoing Gentrification and/or Displacement,2,0.16666666666666666
+1004,West Brighton,MHI - Advanced Gentrification,1,0.08333333333333333
+1005,Westchester-Unionport,LI - At Risk of Gentrification and/or Displacement,5,0.2631578947368421
+1006,Westchester-Unionport,LI - Not Losing Low Income Households,4,0.21052631578947367
+1007,Westchester-Unionport,MHI - Advanced Exclusion,1,0.05263157894736842
+1008,Westchester-Unionport,MHI - Advanced Gentrification,3,0.15789473684210525
+1009,Westchester-Unionport,MHI - At Risk of Exclusion,3,0.15789473684210525
+1010,Westchester-Unionport,MHI - Not Losing Low Income Households,1,0.05263157894736842
+1011,Westchester-Unionport,MHI - Ongoing Exclusion,2,0.10526315789473684
+1012,West Concourse,LI - At Risk of Gentrification and/or Displacement,12,0.5
+1013,West Concourse,LI - Not Losing Low Income Households,3,0.125
+1014,West Concourse,LI - Ongoing Gentrification and/or Displacement,7,0.2916666666666667
+1015,West Concourse,MHI - Advanced Exclusion,1,0.041666666666666664
+1016,West Concourse,MHI - Advanced Gentrification,1,0.041666666666666664
+1017,Westerleigh,LI - At Risk of Gentrification and/or Displacement,1,0.05555555555555555
+1018,Westerleigh,LI - Not Losing Low Income Households,7,0.3888888888888889
+1019,Westerleigh,LI - Ongoing Gentrification and/or Displacement,1,0.05555555555555555
+1020,Westerleigh,MHI - Advanced Exclusion,3,0.16666666666666666
+1021,Westerleigh,MHI - At Risk of Exclusion,1,0.05555555555555555
+1022,Westerleigh,MHI - Not Losing Low Income Households,4,0.2222222222222222
+1023,Westerleigh,MHI - Ongoing Exclusion,1,0.05555555555555555
+1024,West Farms-Bronx River,LI - At Risk of Gentrification and/or Displacement,8,0.4444444444444444
+1025,West Farms-Bronx River,LI - Not Losing Low Income Households,4,0.2222222222222222
+1026,West Farms-Bronx River,LI - Ongoing Gentrification and/or Displacement,3,0.16666666666666666
+1027,West Farms-Bronx River,MHI - Advanced Gentrification,2,0.1111111111111111
+1028,West Farms-Bronx River,MHI - Ongoing Exclusion,1,0.05555555555555555
+1029,West New Brighton-New Brighton-St. George,LI - At Risk of Gentrification and/or Displacement,3,0.13636363636363635
+1030,West New Brighton-New Brighton-St. George,LI - Not Losing Low Income Households,11,0.5
+1031,West New Brighton-New Brighton-St. George,LI - Ongoing Gentrification and/or Displacement,3,0.13636363636363635
+1032,West New Brighton-New Brighton-St. George,MHI - Advanced Exclusion,1,0.045454545454545456
+1033,West New Brighton-New Brighton-St. George,MHI - Advanced Gentrification,1,0.045454545454545456
+1034,West New Brighton-New Brighton-St. George,MHI - Not Losing Low Income Households,2,0.09090909090909091
+1035,West New Brighton-New Brighton-St. George,MHI - Ongoing Exclusion,1,0.045454545454545456
+1036,West Village,LI - At Risk of Gentrification and/or Displacement,1,0.041666666666666664
+1037,West Village,LI - Ongoing Gentrification and/or Displacement,3,0.125
+1038,West Village,MHI - Advanced Exclusion,9,0.375
+1039,West Village,MHI - Advanced Gentrification,1,0.041666666666666664
+1040,West Village,MHI - At Risk of Exclusion,7,0.2916666666666667
+1041,West Village,MHI - Not Losing Low Income Households,1,0.041666666666666664
+1042,West Village,MHI - Ongoing Exclusion,2,0.08333333333333333
+1043,Whitestone,LI - Not Losing Low Income Households,3,0.17647058823529413
+1044,Whitestone,MHI - Advanced Exclusion,6,0.35294117647058826
+1045,Whitestone,MHI - At Risk of Exclusion,1,0.058823529411764705
+1046,Whitestone,MHI - Not Losing Low Income Households,5,0.29411764705882354
+1047,Whitestone,MHI - Ongoing Exclusion,2,0.11764705882352941
+1048,Williamsbridge-Olinville,LI - At Risk of Gentrification and/or Displacement,5,0.14705882352941177
+1049,Williamsbridge-Olinville,LI - Not Losing Low Income Households,3,0.08823529411764706
+1050,Williamsbridge-Olinville,LI - Ongoing Gentrification and/or Displacement,3,0.08823529411764706
+1051,Williamsbridge-Olinville,MHI - Advanced Exclusion,7,0.20588235294117646
+1052,Williamsbridge-Olinville,MHI - Advanced Gentrification,4,0.11764705882352941
+1053,Williamsbridge-Olinville,MHI - At Risk of Exclusion,2,0.058823529411764705
+1054,Williamsbridge-Olinville,MHI - Not Losing Low Income Households,7,0.20588235294117646
+1055,Williamsbridge-Olinville,MHI - Ongoing Exclusion,3,0.08823529411764706
+1056,Williamsburg,LI - At Risk of Gentrification and/or Displacement,6,0.35294117647058826
+1057,Williamsburg,LI - Not Losing Low Income Households,3,0.17647058823529413
+1058,Williamsburg,LI - Ongoing Gentrification and/or Displacement,6,0.35294117647058826
+1059,Williamsburg,MHI - Advanced Gentrification,2,0.11764705882352941
+1060,Windsor Terrace,LI - At Risk of Gentrification and/or Displacement,1,0.06666666666666667
+1061,Windsor Terrace,LI - Ongoing Gentrification and/or Displacement,2,0.13333333333333333
+1062,Windsor Terrace,MHI - Advanced Exclusion,5,0.3333333333333333
+1063,Windsor Terrace,MHI - Advanced Gentrification,3,0.2
+1064,Windsor Terrace,MHI - At Risk of Exclusion,1,0.06666666666666667
+1065,Windsor Terrace,MHI - Not Losing Low Income Households,2,0.13333333333333333
+1066,Windsor Terrace,MHI - Ongoing Exclusion,1,0.06666666666666667
+1067,Woodhaven,LI - At Risk of Gentrification and/or Displacement,5,0.15151515151515152
+1068,Woodhaven,LI - Not Losing Low Income Households,12,0.36363636363636365
+1069,Woodhaven,LI - Ongoing Gentrification and/or Displacement,4,0.12121212121212122
+1070,Woodhaven,MHI - Advanced Exclusion,4,0.12121212121212122
+1071,Woodhaven,MHI - Advanced Gentrification,3,0.09090909090909091
+1072,Woodhaven,MHI - Not Losing Low Income Households,1,0.030303030303030304
+1073,Woodhaven,MHI - Ongoing Exclusion,4,0.12121212121212122
+1074,Woodlawn-Wakefield,LI - At Risk of Gentrification and/or Displacement,3,0.10344827586206896
+1075,Woodlawn-Wakefield,LI - Not Losing Low Income Households,6,0.20689655172413793
+1076,Woodlawn-Wakefield,LI - Ongoing Gentrification and/or Displacement,4,0.13793103448275862
+1077,Woodlawn-Wakefield,MHI - Advanced Exclusion,9,0.3103448275862069
+1078,Woodlawn-Wakefield,MHI - Advanced Gentrification,1,0.034482758620689655
+1079,Woodlawn-Wakefield,MHI - At Risk of Exclusion,2,0.06896551724137931
+1080,Woodlawn-Wakefield,MHI - Not Losing Low Income Households,2,0.06896551724137931
+1081,Woodlawn-Wakefield,MHI - Ongoing Exclusion,2,0.06896551724137931
+1082,Woodside,LI - At Risk of Gentrification and/or Displacement,5,0.2
+1083,Woodside,LI - Not Losing Low Income Households,6,0.24
+1084,Woodside,LI - Ongoing Gentrification and/or Displacement,5,0.2
+1085,Woodside,MHI - Advanced Exclusion,1,0.04
+1086,Woodside,MHI - Advanced Gentrification,5,0.2
+1087,Woodside,MHI - Not Losing Low Income Households,3,0.12
+1088,Yorkville,LI - At Risk of Gentrification and/or Displacement,1,0.058823529411764705
+1089,Yorkville,LI - Ongoing Gentrification and/or Displacement,2,0.11764705882352941
+1090,Yorkville,MHI - Advanced Exclusion,5,0.29411764705882354
+1091,Yorkville,MHI - At Risk of Exclusion,3,0.17647058823529413
+1092,Yorkville,MHI - Not Losing Low Income Households,5,0.29411764705882354
+1093,Yorkville,MHI - Ongoing Exclusion,1,0.058823529411764705
