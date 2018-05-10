@@ -1,8 +1,13 @@
-## Data Visualization Final Project
+## Data Visualization Final Project - Mapping Gentrification in NYC
 
 ### Team Members:
 Gerardo Rodríguez (grv232)  
 Julián Ferreiro (jif245)
+
+![alt text](https://lh4.googleusercontent.com/-9UEy9CyEAaE/U7rAhlyPoeI/AAAAAAAABoY/IqaH8FCVZIs/s618/unnamed-001.jpg)
+
+
+
 
 ### Objectives of the project:
 Gentrification in cities refers to the process where low income groups are displaced and replaced by higher income groups. 
