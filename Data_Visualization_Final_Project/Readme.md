@@ -4,7 +4,7 @@
 Gerardo Rodríguez (grv232)  
 Julián Ferreiro (jif245)
 
-![alt text](https://lh4.googleusercontent.com/-9UEy9CyEAaE/U7rAhlyPoeI/AAAAAAAABoY/IqaH8FCVZIs/s618/unnamed-001.jpg??style=centerm)
+![alt text](https://lh4.googleusercontent.com/-9UEy9CyEAaE/U7rAhlyPoeI/AAAAAAAABoY/IqaH8FCVZIs/s618/unnamed-001.jpg)
 
 
 
