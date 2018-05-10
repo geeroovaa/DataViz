@@ -18,6 +18,11 @@ Since census tract is highly granular level, it was decided to aggregate the dat
 The neighbourhood level is more meaningful to a policy maker: it constitues a category that is common knowledge for newyorkers and is what is used to analyze political variables like PlanNYC projects, voting results, etc.
 
 ### Visualization Design Choices
-
+We use a cloropeth of NYC neighborhoods colored by the percentage of census tract of each category.
+Due our technicall limiations and inabilities we couldn't create a deep analyzis tools, like showing the exact percentage when clicking on a nieghborhood or showing this same map for different years of the census. 
 
 ### Outcome and Evaluation
+This will help visualize which neighbourhoods are at risk. 
+Since this index was not yet validated, it will help researchers to look for discrepancies with the index and ground thruth. If a neighborhood is shown to have an ongoing gentrification with the index but this is not correlated with field data, researchers will be able to adjust the index. 
+
+The tool will also help to quickly assess policy or evaluate risk of applying a new one. Although we don't believe the index is perfect, it can help make better informed decisions to where to prioritize different type of developments such as an affordable housing policy, a PlanNYC project, etc. 
